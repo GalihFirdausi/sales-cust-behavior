@@ -1,0 +1,421 @@
+order_id,pelanggan_id,tanggal,total,status,nama,email,alamat,kota,provinsi,no_hp,detil_id,produk_id,jumlah,subtotal,nama_produk,kategori,harga,stok
+208,103,2025-10-07,92000,dibayar,"Rina Sari",rina.sari@email.com,"Jl. Hayam Wuruk No. 95","Jakarta Barat","DKI Jakarta",081123456723,415,1,1,2500,"Indomie Goreng",Makanan,2500,500
+181,76,2025-07-16,108000,dikirim,"Hadi Prasetyo",hadi.prasetyo@email.com,"Jl. Pemuda No. 4",Semarang,"Jawa Tengah",085890123489,361,1,1,2500,"Indomie Goreng",Makanan,2500,500
+180,75,2025-07-13,76000,dibatalkan,"Rina Agustina",rina.agustina2@email.com,"Jl. Monginsidi No. 88",Makassar,"Sulawesi Selatan",081789012378,360,1,1,2500,"Indomie Goreng",Makanan,2500,500
+170,65,2025-06-13,43000,dibatalkan,"Lina Wijayanti",lina.wijayanti@email.com,"Jl. Kartini No. 26",Malang,"Jawa Timur",081234567823,339,1,2,5000,"Indomie Goreng",Makanan,2500,500
+136,31,2025-03-03,116000,dikirim,"Aditya Pratama",aditya.pratama@email.com,"Jl. Ahmad Dahlan No. 18",Yogyakarta,"DI Yogyakarta",081567890134,272,1,1,2500,"Indomie Goreng",Makanan,2500,500
+108,3,2024-12-08,119000,dibayar,"Budi Santoso",budi.santoso@email.com,"Jl. Diponegoro No. 88",Surabaya,"Jawa Timur",081345678902,215,1,2,5000,"Indomie Goreng",Makanan,2500,500
+81,81,2024-09-07,121000,dikirim,"Siska Marlina",siska.marlina@email.com,"Jl. Cik Di Tiro No. 64",Yogyakarta,"DI Yogyakarta",081012345601,161,1,1,2500,"Indomie Goreng",Makanan,2500,500
+80,80,2024-09-04,68000,dibatalkan,"Arief Prasetyo",arief.prasetyo@email.com,"Jl. Veteran No. 7",Malang,"Jawa Timur",085012345601,160,1,1,2500,"Indomie Goreng",Makanan,2500,500
+70,70,2024-08-04,58000,dibatalkan,"Yusuf Santoso",yusuf.santoso@email.com,"Jl. WR Supratman No. 60",Cirebon,"Jawa Barat",082567890156,139,1,3,7500,"Indomie Goreng",Makanan,2500,500
+14,14,2024-02-22,37000,dibatalkan,"Maya Sari",maya.sari@email.com,"Jl. Kartini No. 41",Malang,"Jawa Timur",085789012345,28,1,1,2500,"Indomie Goreng",Makanan,2500,500
+1,1,2024-01-15,50000,selesai,"Ahmad Fauzi",ahmad.fauzi@email.com,"Jl. Merdeka No. 23","Jakarta Pusat","DKI Jakarta",081234567890,1,1,2,5000,"Indomie Goreng",Makanan,2500,500
+197,92,2025-09-04,77000,selesai,"Hendri Wijaya",hendri.wijaya@email.com,"Jl. Ahmad Yani No. 96","Bandar Lampung",Lampung,085678901278,393,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+185,80,2025-07-28,68000,dibatalkan,"Arief Prasetyo",arief.prasetyo@email.com,"Jl. Veteran No. 7",Malang,"Jawa Timur",085012345601,370,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+170,65,2025-06-13,43000,dibatalkan,"Lina Wijayanti",lina.wijayanti@email.com,"Jl. Kartini No. 26",Malang,"Jawa Timur",081234567823,340,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+141,36,2025-03-18,108000,dikirim,"Dewi Puspita",dewi.puspita@email.com,"Jl. Sultan Iskandar Muda No. 29","Banda Aceh",Aceh,085890123467,282,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+112,7,2024-12-20,89000,selesai,"Andi Pratama",andi.pratama@email.com,"Jl. Pahlawan No. 67",Makassar,"Sulawesi Selatan",081345670987,223,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+97,97,2024-10-25,83000,selesai,"Siska Wijaya",siska.wijaya@email.com,"Jl. Jend. Sudirman No. 86",Pekanbaru,Riau,081890123490,193,2,2,17000,"Sari Roti Coklat",Makanan,8500,300
+85,85,2024-09-19,39000,dibatalkan,"Rina Dewi",rina.dewi@email.com,"Jl. A. Yani No. 49",Banjarmasin,"Kalimantan Selatan",081234567834,170,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+70,70,2024-08-04,58000,dibatalkan,"Yusuf Santoso",yusuf.santoso@email.com,"Jl. WR Supratman No. 60",Cirebon,"Jawa Barat",082567890156,140,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+30,30,2024-04-05,96000,dibatalkan,"Siska Dewi",siska.dewi@email.com,"Jl. Basuki Rahmat No. 42",Surabaya,"Jawa Timur",082567890134,60,2,1,8500,"Sari Roti Coklat",Makanan,8500,300
+5,5,2024-01-25,95000,selesai,"Rizky Ramadhan",rizky.ramadhan@email.com,"Jl. Veteran No. 12",Yogyakarta,"DI Yogyakarta",081234509876,9,2,2,17000,"Sari Roti Coklat",Makanan,8500,300
+210,105,2025-10-13,42000,dibatalkan,"Siti Marlina",siti.marlina@email.com,"Jl. Pahlawan No. 91",Makassar,"Sulawesi Selatan",081234567845,419,3,1,65000,"Beras Rojolele 5kg",Makanan,65000,200
+189,84,2025-08-10,108000,selesai,"Dani Wijaya",dani.wijaya@email.com,"Jl. Diponegoro No. 76",Semarang,"Jawa Tengah",085234567823,378,3,1,72000,"Beras Rojolele 5kg",Makanan,65000,200
+147,42,2025-04-05,86000,selesai,"Rina Fitriani",rina.fitriani@email.com,"Jl. A. Yani No. 35",Banjarmasin,"Kalimantan Selatan",082123456790,294,3,1,72000,"Beras Rojolele 5kg",Makanan,65000,200
+121,16,2025-01-17,111000,dikirim,"Sari Indah",sari.indah@email.com,"Jl. Pattimura No. 63",Manado,"Sulawesi Utara",082890123456,241,3,1,68000,"Beras Rojolele 5kg",Makanan,65000,200
+110,5,2024-12-14,74000,dibatalkan,"Rizky Ramadhan",rizky.ramadhan@email.com,"Jl. Veteran No. 12",Yogyakarta,"DI Yogyakarta",081234509876,219,3,1,65000,"Beras Rojolele 5kg",Makanan,65000,200
+89,89,2024-10-01,72000,selesai,"Dinda Sari",dinda.sari@email.com,"Jl. Veteran No. 25",Solo,"Jawa Tengah",081456789056,178,3,1,72000,"Beras Rojolele 5kg",Makanan,65000,200
+41,41,2024-05-07,126000,dikirim,"Dani Prasetyo",dani.prasetyo@email.com,"Jl. Diponegoro No. 62",Semarang,"Jawa Tengah",081012345689,82,3,1,72000,"Beras Rojolele 5kg",Makanan,65000,200
+15,15,2024-02-25,125000,selesai,"Agus Firmansyah",agus.firmansyah@email.com,"Jl. Rajawali No. 19",Banjarmasin,"Kalimantan Selatan",081789012345,29,3,1,68000,"Beras Rojolele 5kg",Makanan,65000,200
+3,3,2024-01-20,85000,selesai,"Budi Santoso",budi.santoso@email.com,"Jl. Diponegoro No. 88",Surabaya,"Jawa Timur",081345678902,5,3,1,65000,"Beras Rojolele 5kg",Makanan,65000,200
+192,87,2025-08-19,100000,selesai,"Siti Lestari",siti.lestari@email.com,"Jl. Pattimura No. 33",Ambon,Maluku,081345678945,384,4,1,28000,"Minyak Goreng Bimoli 1L",Makanan,28000,150
+148,43,2025-04-08,119000,dibayar,"Anton Wijaya",anton.wijaya@email.com,"Jl. Gatot Subroto No. 70",Denpasar,Bali,081123456790,296,4,1,28000,"Minyak Goreng Bimoli 1L",Makanan,28000,150
+92,92,2024-10-10,78000,selesai,"Hendri Wijaya",hendri.wijaya@email.com,"Jl. Ahmad Yani No. 96","Bandar Lampung",Lampung,085678901278,184,4,1,28000,"Minyak Goreng Bimoli 1L",Makanan,28000,150
+209,104,2025-10-10,64000,selesai,"Budi Wijaya",budi.wijaya@email.com,"Jl. Asia Afrika No. 50",Bandung,"Jawa Barat",085234567834,417,5,1,15000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+198,93,2025-09-07,126000,dibayar,"Nina Sari",nina.sari@email.com,"Jl. Teuku Umar No. 34","Banda Aceh",Aceh,081678901278,395,5,2,30000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+194,89,2025-08-25,71000,selesai,"Dinda Sari",dinda.sari@email.com,"Jl. Veteran No. 25",Solo,"Jawa Tengah",081456789056,388,5,1,15000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+182,77,2025-07-19,89000,selesai,"Linda Wijaya",linda.wijaya@email.com,"Jl. Sudirman No. 9",Palembang,"Sumatera Selatan",081890123489,363,5,2,30000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+171,66,2025-06-16,117000,dikirim,"Fajar Wijaya",fajar.wijaya@email.com,"Jl. Rajawali No. 5",Banjarmasin,"Kalimantan Selatan",082345678934,341,5,1,15000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+149,44,2025-04-11,64000,selesai,"Siti Aminah",siti.aminah@email.com,"Jl. Pattimura No. 20",Ambon,Maluku,085234567801,298,5,1,15000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+109,4,2024-12-11,59000,selesai,"Dewi Lestari",dewi.lestari@email.com,"Jl. Gatot Subroto No. 45",Medan,"Sumatera Utara",085678901234,217,5,2,30000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+98,98,2024-10-28,111000,dibayar,"Rudi Wijaya",rudi.wijaya@email.com,"Jl. Diponegoro No. 104",Semarang,"Jawa Tengah",082901234501,195,5,1,15000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+94,94,2024-10-16,54000,selesai,"Raka Wijaya",raka.wijaya@email.com,"Jl. Pemuda No. 28",Pontianak,"Kalimantan Barat",082789012389,188,5,1,15000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+82,82,2024-09-10,83000,selesai,"Indra Prasetyo",indra.prasetyo@email.com,"Jl. Sam Ratulangi No. 85",Manado,"Sulawesi Utara",082123456712,163,5,3,45000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+71,71,2024-08-07,92000,dikirim,"Anita Wijaya",anita.wijaya@email.com,"Jl. Pemuda No. 9",Balikpapan,"Kalimantan Timur",081567890156,141,5,1,15000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+20,20,2024-03-10,55000,dibatalkan,"Lia Kurniawati",lia.kurniawati@email.com,"Jl. Antasari No. 52",Pontianak,"Kalimantan Barat",082012345678,40,5,1,8500,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+2,2,2024-01-18,120000,dikirim,"Siti Nurhaliza",siti.nurhaliza@email.com,"Jl. Sudirman No. 15",Bandung,"Jawa Barat",082134567891,3,5,2,30000,"Gula Pasir Gulaku 1kg",Makanan,15000,400
+195,90,2025-08-28,113000,dibatalkan,"Ferry Wijaya",ferry.wijaya@email.com,"Jl. Diponegoro No. 102",Kediri,"Jawa Timur",082567890167,390,6,1,12000,"Teh Sariwangi",Minuman,12000,600
+150,45,2025-04-14,69000,dibatalkan,"Bambang Triyono",bambang.triyono@email.com,"Jl. Sultan Agung No. 44",Tegal,"Jawa Tengah",081234567812,300,6,1,12000,"Teh Sariwangi",Minuman,12000,600
+122,17,2025-01-20,94000,selesai,"Fajar Nugroho",fajar.nugroho@email.com,"Jl. Teuku Umar No. 27","Aceh Besar",Aceh,081890123456,243,6,1,12000,"Teh Sariwangi",Minuman,12000,600
+95,95,2024-10-19,67000,dibatalkan,"Dewi Sari",dewi.sari@email.com,"Jl. Sultan Hasanuddin No. 48",Makassar,"Sulawesi Selatan",081789012389,190,6,1,12000,"Teh Sariwangi",Minuman,12000,600
+35,35,2024-04-19,47000,dibatalkan,"Rizal Fadillah",rizal.fadillah@email.com,"Jl. Merdeka No. 4",Pekanbaru,Riau,081789012356,70,6,1,12000,"Teh Sariwangi",Minuman,12000,600
+16,16,2024-02-28,90000,dikirim,"Sari Indah",sari.indah@email.com,"Jl. Pattimura No. 63",Manado,"Sulawesi Utara",082890123456,31,6,2,24000,"Teh Sariwangi",Minuman,12000,600
+151,46,2025-04-17,103000,dikirim,"Dinda Ayu",dinda.ayu@email.com,"Jl. Veteran No. 13",Solo,"Jawa Tengah",082345678923,302,7,1,10000,"Kopi Kapal Api",Minuman,18000,350
+126,21,2025-02-01,97000,dikirim,"Yusuf Maulana",yusuf.maulana@email.com,"Jl. Cut Nyak Dhien No. 38","Banda Aceh",Aceh,081012345678,252,7,1,10000,"Kopi Kapal Api",Minuman,18000,350
+152,47,2025-04-20,91000,selesai,"Ferry Irawan",ferry.irawan@email.com,"Jl. Diponegoro No. 91",Kediri,"Jawa Timur",081345678923,304,8,1,3000,"Aqua Botol 600ml",Minuman,3000,1000
+123,18,2025-01-23,81000,dibayar,"Dian Permata",dian.permata@email.com,"Jl. Sultan Agung No. 11",Tangerang,Banten,085901234567,245,8,2,6000,"Aqua Botol 600ml",Minuman,3000,1000
+40,40,2024-05-04,54000,dibatalkan,"Maya Lestari",maya.lestari@email.com,"Jl. Imam Bonjol No. 99",Padang,"Sumatera Barat",085012345689,80,8,1,3000,"Aqua Botol 600ml",Minuman,3000,1000
+17,17,2024-03-02,77000,selesai,"Fajar Nugroho",fajar.nugroho@email.com,"Jl. Teuku Umar No. 27","Aceh Besar",Aceh,081890123456,33,8,3,9000,"Aqua Botol 600ml",Minuman,3000,1000
+153,48,2025-04-23,78000,dibayar,"Lina Sari",lina.sari@email.com,"Jl. Sudirman No. 58",Jambi,Jambi,085456789034,306,9,1,4500,"Susu Indomilk 200ml",Minuman,4500,700
+124,19,2025-01-26,105000,selesai,"Rudi Hartono",rudi.hartono@email.com,"Jl. Jend. Sudirman No. 89",Pekanbaru,Riau,081901234567,247,9,1,4500,"Susu Indomilk 200ml",Minuman,4500,700
+42,42,2024-05-10,89000,selesai,"Rina Fitriani",rina.fitriani@email.com,"Jl. A. Yani No. 35",Banjarmasin,"Kalimantan Selatan",082123456790,84,9,1,4500,"Susu Indomilk 200ml",Minuman,4500,700
+18,18,2024-03-05,64000,dibayar,"Dian Permata",dian.permata@email.com,"Jl. Sultan Agung No. 11",Tangerang,Banten,085901234567,35,9,2,9000,"Susu Indomilk 200ml",Minuman,4500,700
+199,94,2025-09-10,53000,selesai,"Raka Wijaya",raka.wijaya@email.com,"Jl. Pemuda No. 28",Pontianak,"Kalimantan Barat",082789012389,397,10,1,45000,"Sari Lemon",Minuman,5500,250
+183,78,2025-07-22,95000,dibayar,"Rizal Wijaya",rizal.wijaya@email.com,"Jl. Merdeka No. 2",Pekanbaru,Riau,082901234590,365,10,2,90000,"Sari Lemon",Minuman,5500,250
+171,66,2025-06-16,117000,dikirim,"Fajar Wijaya",fajar.wijaya@email.com,"Jl. Rajawali No. 5",Banjarmasin,"Kalimantan Selatan",082345678934,342,10,2,90000,"Sari Lemon",Minuman,5500,250
+154,49,2025-04-26,95000,selesai,"Hendri Gunawan",hendri.gunawan@email.com,"Jl. Ahmad Yani No. 87","Bandar Lampung",Lampung,081456789034,308,10,1,45000,"Sari Lemon",Minuman,5500,250
+99,99,2024-11-01,58000,selesai,"Lia Sari",lia.sari@email.com,"Jl. Merdeka No. 21",Palu,"Sulawesi Tengah",081901234501,197,10,2,90000,"Sari Lemon",Minuman,5500,250
+83,83,2024-09-13,75000,dibayar,"Maya Putri",maya.putri@email.com,"Jl. Imam Bonjol No. 101",Padang,"Sumatera Barat",081123456712,165,10,1,45000,"Sari Lemon",Minuman,5500,250
+71,71,2024-08-07,92000,dikirim,"Anita Wijaya",anita.wijaya@email.com,"Jl. Pemuda No. 9",Balikpapan,"Kalimantan Timur",081567890156,142,10,2,90000,"Sari Lemon",Minuman,5500,250
+1,1,2024-01-15,50000,selesai,"Ahmad Fauzi",ahmad.fauzi@email.com,"Jl. Merdeka No. 23","Jakarta Pusat","DKI Jakarta",081234567890,2,10,1,45000,"Sari Lemon",Minuman,5500,250
+155,50,2025-04-29,46000,dibatalkan,"Nina Wijaya",nina.wijaya@email.com,"Jl. Teuku Umar No. 22","Banda Aceh",Aceh,082567890145,310,11,1,6000,"Sabun Lifebuoy","Perawatan Tubuh",6000,500
+144,39,2025-03-27,111000,selesai,"Indra Wijaya",indra.wijaya@email.com,"Jl. Sam Ratulangi No. 73",Manado,"Sulawesi Utara",081901234578,288,11,1,6000,"Sabun Lifebuoy","Perawatan Tubuh",6000,500
+117,12,2025-01-05,82000,selesai,"Rina Agustina",rina.agustina@email.com,"Jl. Imam Bonjol No. 77",Padang,"Sumatera Barat",082456789012,233,11,2,12000,"Sabun Lifebuoy","Perawatan Tubuh",6000,500
+38,38,2024-04-28,95000,dibayar,"Siska Anggraini",siska.anggraini@email.com,"Jl. Cik Di Tiro No. 51",Yogyakarta,"DI Yogyakarta",082901234578,76,11,1,6000,"Sabun Lifebuoy","Perawatan Tubuh",6000,500
+10,10,2024-02-12,62000,selesai,"Nadia Putri",nadia.putri@email.com,"Jl. Kenanga No. 9",Denpasar,Bali,082345678901,19,11,1,6000,"Sabun Lifebuoy","Perawatan Tubuh",6000,500
+156,51,2025-05-02,107000,dikirim,"Raka Pratama",raka.pratama@email.com,"Jl. Pemuda No. 17",Pontianak,"Kalimantan Barat",081567890145,312,12,1,12000,"Shampoo Sunsilk","Perawatan Tubuh",12000,400
+145,40,2025-03-30,38000,dibatalkan,"Maya Lestari",maya.lestari@email.com,"Jl. Imam Bonjol No. 99",Padang,"Sumatera Barat",085012345689,290,12,1,12000,"Shampoo Sunsilk","Perawatan Tubuh",12000,400
+118,13,2025-01-08,128000,dibayar,"Hendra Wijaya",hendra.wijaya@email.com,"Jl. Asia Afrika No. 33",Bandung,"Jawa Barat",081678901234,235,12,2,24000,"Shampoo Sunsilk","Perawatan Tubuh",12000,400
+11,11,2024-02-15,88000,dikirim,"Eko Prasetyo",eko.prasetyo@email.com,"Jl. Hayam Wuruk No. 56","Jakarta Barat","DKI Jakarta",081567890123,21,12,1,12000,"Shampoo Sunsilk","Perawatan Tubuh",12000,400
+157,52,2025-05-05,84000,selesai,"Dewi Kusuma",dewi.kusuma@email.com,"Jl. Sultan Hasanuddin No. 36",Makassar,"Sulawesi Selatan",085678901256,314,13,1,9000,"Pasta Gigi Pepsodent","Perawatan Tubuh",9000,450
+146,41,2025-04-02,94000,dikirim,"Dani Prasetyo",dani.prasetyo@email.com,"Jl. Diponegoro No. 62",Semarang,"Jawa Tengah",081012345689,292,13,1,9000,"Pasta Gigi Pepsodent","Perawatan Tubuh",9000,450
+119,14,2025-01-11,63000,selesai,"Maya Sari",maya.sari@email.com,"Jl. Kartini No. 41",Malang,"Jawa Timur",085789012345,237,13,1,9000,"Pasta Gigi Pepsodent","Perawatan Tubuh",9000,450
+39,39,2024-05-01,63000,selesai,"Indra Wijaya",indra.wijaya@email.com,"Jl. Sam Ratulangi No. 73",Manado,"Sulawesi Utara",081901234578,78,13,1,9000,"Pasta Gigi Pepsodent","Perawatan Tubuh",9000,450
+12,12,2024-02-18,54000,selesai,"Rina Agustina",rina.agustina@email.com,"Jl. Imam Bonjol No. 77",Padang,"Sumatera Barat",082456789012,23,13,2,18000,"Pasta Gigi Pepsodent","Perawatan Tubuh",9000,450
+158,53,2025-05-08,120000,dibayar,"Agus Wijaya",agus.wijaya@email.com,"Jl. Pattimura No. 50",Manado,"Sulawesi Utara",081678901256,316,14,1,25000,"Pembalut Kotex","Perawatan Tubuh",25000,300
+120,15,2025-01-14,78000,dibatalkan,"Agus Firmansyah",agus.firmansyah@email.com,"Jl. Rajawali No. 19",Banjarmasin,"Kalimantan Selatan",081789012345,239,14,1,25000,"Pembalut Kotex","Perawatan Tubuh",25000,300
+43,43,2024-05-13,76000,dibayar,"Anton Wijaya",anton.wijaya@email.com,"Jl. Gatot Subroto No. 70",Denpasar,Bali,081123456790,86,14,1,25000,"Pembalut Kotex","Perawatan Tubuh",25000,300
+13,13,2024-02-20,101000,dibayar,"Hendra Wijaya",hendra.wijaya@email.com,"Jl. Asia Afrika No. 33",Bandung,"Jawa Barat",081678901234,25,14,1,25000,"Pembalut Kotex","Perawatan Tubuh",25000,300
+199,94,2025-09-10,53000,selesai,"Raka Wijaya",raka.wijaya@email.com,"Jl. Pemuda No. 28",Pontianak,"Kalimantan Barat",082789012389,398,15,2,32000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+172,67,2025-06-19,88000,selesai,"Nadia Sari",nadia.sari@email.com,"Jl. Pattimura No. 72",Manado,"Sulawesi Utara",081345678934,343,15,1,16000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+159,54,2025-05-11,67000,selesai,"Siska Putri",siska.putri@email.com,"Jl. Jend. Sudirman No. 75",Pekanbaru,Riau,082789012367,318,15,1,16000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+111,6,2024-12-17,107000,dikirim,"Putri Wulandari",putri.wulandari@email.com,"Jl. Cendana No. 34",Semarang,"Jawa Tengah",082234567890,221,15,1,16000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+99,99,2024-11-01,58000,selesai,"Lia Sari",lia.sari@email.com,"Jl. Merdeka No. 21",Palu,"Sulawesi Tengah",081901234501,198,15,1,16000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+72,72,2024-08-10,84000,selesai,"Bayu Prasetyo",bayu.prasetyo@email.com,"Jl. Gajah Mada No. 23",Samarinda,"Kalimantan Timur",085678901267,143,15,2,32000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+44,44,2024-05-16,110000,selesai,"Siti Aminah",siti.aminah@email.com,"Jl. Pattimura No. 20",Ambon,Maluku,085234567801,88,15,1,16000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+4,4,2024-01-22,67000,dibayar,"Dewi Lestari",dewi.lestari@email.com,"Jl. Gatot Subroto No. 45",Medan,"Sumatera Utara",085678901234,7,15,1,16000,"Deodorant Rexona","Perawatan Tubuh",16000,200
+160,55,2025-05-14,71000,dibatalkan,"Rudi Setiawan",rudi.setiawan@email.com,"Jl. Diponegoro No. 93",Semarang,"Jawa Tengah",081789012367,320,16,1,25000,"Popok MamyPoko",Bayi,85000,150
+127,22,2025-02-04,85000,selesai,"Anita Sari",anita.sari@email.com,"Jl. WR Supratman No. 74",Cirebon,"Jawa Barat",082123456789,253,16,1,25000,"Popok MamyPoko",Bayi,85000,150
+45,45,2024-05-19,38000,dibatalkan,"Bambang Triyono",bambang.triyono@email.com,"Jl. Sultan Agung No. 44",Tegal,"Jawa Tengah",081234567812,90,16,1,25000,"Popok MamyPoko",Bayi,85000,150
+21,21,2024-03-12,92000,dikirim,"Yusuf Maulana",yusuf.maulana@email.com,"Jl. Cut Nyak Dhien No. 38","Banda Aceh",Aceh,081012345678,41,16,1,25000,"Popok MamyPoko",Bayi,85000,150
+161,56,2025-05-17,98000,dikirim,"Lia Permata",lia.permata@email.com,"Jl. Merdeka No. 10",Palu,"Sulawesi Tengah",085890123478,322,17,1,55000,"Susu SGM 1+ 400g",Bayi,55000,250
+128,23,2025-02-07,118000,dibayar,"Bayu Setiawan",bayu.setiawan@email.com,"Jl. Pemuda No. 90",Balikpapan,"Kalimantan Timur",081123456789,255,17,2,110000,"Susu SGM 1+ 400g",Bayi,55000,250
+46,46,2024-05-22,94000,dikirim,"Dinda Ayu",dinda.ayu@email.com,"Jl. Veteran No. 13",Solo,"Jawa Tengah",082345678923,92,17,1,55000,"Susu SGM 1+ 400g",Bayi,55000,250
+22,22,2024-03-15,83000,selesai,"Anita Sari",anita.sari@email.com,"Jl. WR Supratman No. 74",Cirebon,"Jawa Barat",082123456789,43,17,2,110000,"Susu SGM 1+ 400g",Bayi,55000,250
+162,57,2025-05-20,85000,selesai,"Toni Prasetyo",toni.prasetyo@email.com,"Jl. A. Yani No. 61",Banjarmasin,"Kalimantan Selatan",081890123478,324,18,1,22000,"Baby Oil Zwitsal",Bayi,22000,300
+129,24,2025-02-10,68000,selesai,"Fitri Handayani",fitri.handayani@email.com,"Jl. Gajah Mada No. 14",Samarinda,"Kalimantan Timur",085234567890,257,18,2,44000,"Baby Oil Zwitsal",Bayi,22000,300
+47,47,2024-05-25,102000,selesai,"Ferry Irawan",ferry.irawan@email.com,"Jl. Diponegoro No. 91",Kediri,"Jawa Timur",081345678923,94,18,1,22000,"Baby Oil Zwitsal",Bayi,22000,300
+23,23,2024-03-18,115000,dibayar,"Bayu Setiawan",bayu.setiawan@email.com,"Jl. Pemuda No. 90",Balikpapan,"Kalimantan Timur",081123456789,45,18,1,22000,"Baby Oil Zwitsal",Bayi,22000,300
+163,58,2025-05-23,113000,dibayar,"Maya Sari",maya.sari2@email.com,"Jl. Gatot Subroto No. 28",Medan,"Sumatera Utara",082901234589,326,19,1,18000,"Tisu Bayi Mitu",Bayi,18000,400
+130,25,2025-02-13,73000,dibatalkan,"Irfan Hakim",irfan.hakim@email.com,"Jl. K.H. Mas Mansyur No. 25","Jakarta Selatan","DKI Jakarta",081234567801,259,19,1,18000,"Tisu Bayi Mitu",Bayi,18000,400
+48,48,2024-05-28,67000,dibayar,"Lina Sari",lina.sari@email.com,"Jl. Sudirman No. 58",Jambi,Jambi,085456789034,96,19,1,18000,"Tisu Bayi Mitu",Bayi,18000,400
+24,24,2024-03-20,69000,selesai,"Fitri Handayani",fitri.handayani@email.com,"Jl. Gajah Mada No. 14",Samarinda,"Kalimantan Timur",085234567890,47,19,2,36000,"Tisu Bayi Mitu",Bayi,18000,400
+200,95,2025-09-13,66000,dibatalkan,"Dewi Sari",dewi.sari@email.com,"Jl. Sultan Hasanuddin No. 48",Makassar,"Sulawesi Selatan",081789012389,399,20,2,56000,"Bubur Bayi Cerelac",Bayi,28000,200
+184,79,2025-07-25,53000,selesai,"Dewi Anggraini",dewi.anggraini@email.com,"Jl. Sultan Iskandar Muda No. 40","Banda Aceh",Aceh,081901234590,367,20,1,28000,"Bubur Bayi Cerelac",Bayi,28000,200
+172,67,2025-06-19,88000,selesai,"Nadia Sari",nadia.sari@email.com,"Jl. Pattimura No. 72",Manado,"Sulawesi Utara",081345678934,344,20,2,56000,"Bubur Bayi Cerelac",Bayi,28000,200
+165,60,2025-05-29,74000,dibatalkan,"Rina Marlina",rina.marlina@email.com,"Jl. Hayam Wuruk No. 84","Jakarta Barat","DKI Jakarta",085012345690,330,20,1,28000,"Bubur Bayi Cerelac",Bayi,28000,200
+131,26,2025-02-16,102000,dikirim,"Riska Amalia",riska.amalia@email.com,"Jl. Thamrin No. 6","Jakarta Pusat","DKI Jakarta",082345678912,261,20,2,56000,"Bubur Bayi Cerelac",Bayi,28000,200
+100,100,2024-11-04,73000,dibatalkan,"Toni Wijaya",toni.wijaya@email.com,"Jl. A. Yani No. 73",Banjarmasin,"Kalimantan Selatan",085012345612,199,20,1,28000,"Bubur Bayi Cerelac",Bayi,28000,200
+84,84,2024-09-16,109000,selesai,"Dani Wijaya",dani.wijaya@email.com,"Jl. Diponegoro No. 76",Semarang,"Jawa Tengah",085234567823,167,20,2,56000,"Bubur Bayi Cerelac",Bayi,28000,200
+72,72,2024-08-10,84000,selesai,"Bayu Prasetyo",bayu.prasetyo@email.com,"Jl. Gajah Mada No. 23",Samarinda,"Kalimantan Timur",085678901267,144,20,2,56000,"Bubur Bayi Cerelac",Bayi,28000,200
+49,49,2024-06-01,73000,selesai,"Hendri Gunawan",hendri.gunawan@email.com,"Jl. Ahmad Yani No. 87","Bandar Lampung",Lampung,081456789034,98,20,1,28000,"Bubur Bayi Cerelac",Bayi,28000,200
+25,25,2024-03-23,46000,dibatalkan,"Irfan Hakim",irfan.hakim@email.com,"Jl. K.H. Mas Mansyur No. 25","Jakarta Selatan","DKI Jakarta",081234567801,49,20,1,28000,"Bubur Bayi Cerelac",Bayi,28000,200
+166,61,2025-06-01,105000,dikirim,"Budi Pratama",budi.pratama@email.com,"Jl. Asia Afrika No. 39",Bandung,"Jawa Barat",081012345690,332,21,1,28000,"Sampoerna Mild",Rokok,28000,100
+132,27,2025-02-19,87000,selesai,"Taufik Hidayat",taufik.hidayat@email.com,"Jl. Mangga Besar No. 31","Jakarta Barat","DKI Jakarta",081345678912,263,21,1,28000,"Sampoerna Mild",Rokok,28000,100
+50,50,2024-06-04,115000,dibatalkan,"Nina Wijaya",nina.wijaya@email.com,"Jl. Teuku Umar No. 22","Banda Aceh",Aceh,082567890145,100,21,1,28000,"Sampoerna Mild",Rokok,28000,100
+26,26,2024-03-26,105000,dikirim,"Riska Amalia",riska.amalia@email.com,"Jl. Thamrin No. 6","Jakarta Pusat","DKI Jakarta",082345678912,51,21,2,56000,"Sampoerna Mild",Rokok,28000,100
+210,105,2025-10-13,42000,dibatalkan,"Siti Marlina",siti.marlina@email.com,"Jl. Pahlawan No. 91",Makassar,"Sulawesi Selatan",081234567845,420,22,1,20000,"Gudang Garam Surya",Rokok,26000,120
+167,62,2025-06-04,82000,selesai,"Siti Rahayu",siti.rahayu@email.com,"Jl. Pahlawan No. 80",Makassar,"Sulawesi Selatan",082123456701,334,22,1,20000,"Gudang Garam Surya",Rokok,26000,120
+110,5,2024-12-14,74000,dibatalkan,"Rizky Ramadhan",rizky.ramadhan@email.com,"Jl. Veteran No. 12",Yogyakarta,"DI Yogyakarta",081234509876,220,22,2,40000,"Gudang Garam Surya",Rokok,26000,120
+51,51,2024-06-07,88000,dikirim,"Raka Pratama",raka.pratama@email.com,"Jl. Pemuda No. 17",Pontianak,"Kalimantan Barat",081567890145,102,22,1,20000,"Gudang Garam Surya",Rokok,26000,120
+3,3,2024-01-20,85000,selesai,"Budi Santoso",budi.santoso@email.com,"Jl. Diponegoro No. 88",Surabaya,"Jawa Timur",081345678902,6,22,1,20000,"Gudang Garam Surya",Rokok,26000,120
+190,85,2025-08-13,37000,dibatalkan,"Rina Dewi",rina.dewi@email.com,"Jl. A. Yani No. 49",Banjarmasin,"Kalimantan Selatan",081234567834,380,23,1,21000,"Djarum Super",Rokok,24000,180
+168,63,2025-06-07,95000,dibayar,"Dian Sari",dian.sari@email.com,"Jl. Imam Bonjol No. 66",Padang,"Sumatera Barat",081123456701,336,23,1,38000,"Djarum Super",Rokok,24000,180
+133,28,2025-02-22,94000,dibayar,"Nurul Huda",nurul.huda@email.com,"Jl. Pangeran Diponegoro No. 7",Bandung,"Jawa Barat",085456789023,265,23,1,38000,"Djarum Super",Rokok,24000,180
+90,90,2024-10-04,114000,dibatalkan,"Ferry Wijaya",ferry.wijaya@email.com,"Jl. Diponegoro No. 102",Kediri,"Jawa Timur",082567890167,180,23,1,21000,"Djarum Super",Rokok,24000,180
+52,52,2024-06-10,79000,selesai,"Dewi Kusuma",dewi.kusuma@email.com,"Jl. Sultan Hasanuddin No. 36",Makassar,"Sulawesi Selatan",085678901256,104,23,1,38000,"Djarum Super",Rokok,24000,180
+27,27,2024-03-28,79000,selesai,"Taufik Hidayat",taufik.hidayat@email.com,"Jl. Mangga Besar No. 31","Jakarta Barat","DKI Jakarta",081345678912,53,23,1,38000,"Djarum Super",Rokok,24000,180
+169,64,2025-06-10,66000,selesai,"Agus Santoso",agus.santoso@email.com,"Jl. Sudirman No. 95",Bandung,"Jawa Barat",085234567812,338,24,1,120000,"LA Light",Rokok,23000,150
+134,29,2025-02-25,58000,selesai,"Wahyu Saputra",wahyu.saputra@email.com,"Jl. Ir. H. Juanda No. 55",Surabaya,"Jawa Timur",081456789023,267,24,1,120000,"LA Light",Rokok,23000,150
+53,53,2024-06-13,128000,dibayar,"Agus Wijaya",agus.wijaya@email.com,"Jl. Pattimura No. 50",Manado,"Sulawesi Utara",081678901256,106,24,1,120000,"LA Light",Rokok,23000,150
+28,28,2024-03-30,132000,dibayar,"Nurul Huda",nurul.huda@email.com,"Jl. Pangeran Diponegoro No. 7",Bandung,"Jawa Barat",085456789023,55,24,1,120000,"LA Light",Rokok,23000,150
+200,95,2025-09-13,66000,dibatalkan,"Dewi Sari",dewi.sari@email.com,"Jl. Sultan Hasanuddin No. 48",Makassar,"Sulawesi Selatan",081789012389,400,25,1,18000,"Surya Pro Mild",Rokok,30000,90
+173,68,2025-06-22,74000,dibayar,"Eko Wijaya",eko.wijaya@email.com,"Jl. Teuku Umar No. 30","Aceh Besar",Aceh,085456789045,345,25,1,5800,"Surya Pro Mild",Rokok,30000,90
+135,30,2025-02-28,72000,dibatalkan,"Siska Dewi",siska.dewi@email.com,"Jl. Basuki Rahmat No. 42",Surabaya,"Jawa Timur",082567890134,269,25,1,5800,"Surya Pro Mild",Rokok,30000,90
+100,100,2024-11-04,73000,dibatalkan,"Toni Wijaya",toni.wijaya@email.com,"Jl. A. Yani No. 73",Banjarmasin,"Kalimantan Selatan",085012345612,200,25,1,18000,"Surya Pro Mild",Rokok,30000,90
+73,73,2024-08-13,116000,dibayar,"Fitri Sari",fitri.sari@email.com,"Jl. K.H. Mas Mansyur No. 33","Jakarta Selatan","DKI Jakarta",081678901267,145,25,1,5800,"Surya Pro Mild",Rokok,30000,90
+54,54,2024-06-16,55000,selesai,"Siska Putri",siska.putri@email.com,"Jl. Jend. Sudirman No. 75",Pekanbaru,Riau,082789012367,108,25,1,5800,"Surya Pro Mild",Rokok,30000,90
+29,29,2024-04-02,58000,selesai,"Wahyu Saputra",wahyu.saputra@email.com,"Jl. Ir. H. Juanda No. 55",Surabaya,"Jawa Timur",081456789023,57,25,2,11600,"Surya Pro Mild",Rokok,30000,90
+209,104,2025-10-10,64000,selesai,"Budi Wijaya",budi.wijaya@email.com,"Jl. Asia Afrika No. 50",Bandung,"Jawa Barat",085234567834,418,26,2,60000,"Buku Tulis Sidu","Alat Tulis",4000,500
+109,4,2024-12-11,59000,selesai,"Dewi Lestari",dewi.lestari@email.com,"Jl. Gatot Subroto No. 45",Medan,"Sumatera Utara",085678901234,218,26,2,60000,"Buku Tulis Sidu","Alat Tulis",4000,500
+55,55,2024-06-19,68000,dibatalkan,"Rudi Setiawan",rudi.setiawan@email.com,"Jl. Diponegoro No. 93",Semarang,"Jawa Tengah",081789012367,110,26,1,30000,"Buku Tulis Sidu","Alat Tulis",4000,500
+2,2,2024-01-18,120000,dikirim,"Siti Nurhaliza",siti.nurhaliza@email.com,"Jl. Sudirman No. 15",Bandung,"Jawa Barat",082134567891,4,26,3,90000,"Buku Tulis Sidu","Alat Tulis",4000,500
+136,31,2025-03-03,116000,dikirim,"Aditya Pratama",aditya.pratama@email.com,"Jl. Ahmad Dahlan No. 18",Yogyakarta,"DI Yogyakarta",081567890134,271,27,1,100000,"Pulpen Pilot","Alat Tulis",6000,600
+56,56,2024-06-22,97000,dikirim,"Lia Permata",lia.permata@email.com,"Jl. Merdeka No. 10",Palu,"Sulawesi Tengah",085890123478,112,27,1,100000,"Pulpen Pilot","Alat Tulis",6000,600
+30,30,2024-04-05,96000,dibatalkan,"Siska Dewi",siska.dewi@email.com,"Jl. Basuki Rahmat No. 42",Surabaya,"Jawa Timur",082567890134,59,27,1,100000,"Pulpen Pilot","Alat Tulis",6000,600
+115,10,2024-12-29,37000,dibatalkan,"Nadia Putri",nadia.putri@email.com,"Jl. Kenanga No. 9",Denpasar,Bali,082345678901,229,28,1,9000,"Pensil Faber Castell","Alat Tulis",3500,700
+57,57,2024-06-25,84000,selesai,"Toni Prasetyo",toni.prasetyo@email.com,"Jl. A. Yani No. 61",Banjarmasin,"Kalimantan Selatan",081890123478,114,28,1,9000,"Pensil Faber Castell","Alat Tulis",3500,700
+8,8,2024-02-05,75000,selesai,"Lina Marlina",lina.marlina@email.com,"Jl. Ahmad Yani No. 21",Palembang,"Sumatera Selatan",085345678901,15,28,1,9000,"Pensil Faber Castell","Alat Tulis",3500,700
+137,32,2025-03-06,83000,selesai,"Rina Wijayanti",rina.wijayanti@email.com,"Jl. Monginsidi No. 69",Makassar,"Sulawesi Selatan",085678901245,273,29,1,5000,"Penghapus Kenko","Alat Tulis",2000,800
+58,58,2024-06-28,112000,dibayar,"Maya Sari",maya.sari2@email.com,"Jl. Gatot Subroto No. 28",Medan,"Sumatera Utara",082901234589,116,29,1,5000,"Penghapus Kenko","Alat Tulis",2000,800
+31,31,2024-04-08,118000,dikirim,"Aditya Pratama",aditya.pratama@email.com,"Jl. Ahmad Dahlan No. 18",Yogyakarta,"DI Yogyakarta",081567890134,61,29,1,5000,"Penghapus Kenko","Alat Tulis",2000,800
+201,96,2025-09-16,95000,dikirim,"Agus Prasetyo",agus.prasetyo@email.com,"Jl. Pattimura No. 65",Manado,"Sulawesi Utara",085890123490,401,30,1,51000,"Penggaris 30cm","Alat Tulis",5000,400
+186,81,2025-08-01,120000,dikirim,"Siska Marlina",siska.marlina@email.com,"Jl. Cik Di Tiro No. 64",Yogyakarta,"DI Yogyakarta",081012345601,371,30,2,102000,"Penggaris 30cm","Alat Tulis",5000,400
+173,68,2025-06-22,74000,dibayar,"Eko Wijaya",eko.wijaya@email.com,"Jl. Teuku Umar No. 30","Aceh Besar",Aceh,085456789045,346,30,1,51000,"Penggaris 30cm","Alat Tulis",5000,400
+111,6,2024-12-17,107000,dikirim,"Putri Wulandari",putri.wulandari@email.com,"Jl. Cendana No. 34",Semarang,"Jawa Tengah",082234567890,222,30,1,51000,"Penggaris 30cm","Alat Tulis",5000,400
+101,101,2024-11-07,105000,dikirim,"Maya Wijaya",maya.wijaya@email.com,"Jl. Gatot Subroto No. 39",Medan,"Sumatera Utara",081012345612,201,30,1,51000,"Penggaris 30cm","Alat Tulis",5000,400
+86,86,2024-09-22,93000,dikirim,"Anton Prasetyo",anton.prasetyo@email.com,"Jl. Gatot Subroto No. 83",Denpasar,Bali,082345678945,171,30,1,51000,"Penggaris 30cm","Alat Tulis",5000,400
+73,73,2024-08-13,116000,dibayar,"Fitri Sari",fitri.sari@email.com,"Jl. K.H. Mas Mansyur No. 33","Jakarta Selatan","DKI Jakarta",081678901267,146,30,2,102000,"Penggaris 30cm","Alat Tulis",5000,400
+59,59,2024-07-01,59000,selesai,"Adi Nugroho",adi.nugroho@email.com,"Jl. Cendana No. 47",Denpasar,Bali,081901234589,118,30,1,51000,"Penggaris 30cm","Alat Tulis",5000,400
+4,4,2024-01-22,67000,dibayar,"Dewi Lestari",dewi.lestari@email.com,"Jl. Gatot Subroto No. 45",Medan,"Sumatera Utara",085678901234,8,30,1,51000,"Penggaris 30cm","Alat Tulis",5000,400
+138,33,2025-03-09,96000,dibayar,"Hadi Sutrisno",hadi.sutrisno@email.com,"Jl. Pemuda No. 3",Semarang,"Jawa Tengah",081678901245,275,31,1,12000,"Beras Sania 5kg",Makanan,68000,180
+60,60,2024-07-04,74000,dibatalkan,"Rina Marlina",rina.marlina@email.com,"Jl. Hayam Wuruk No. 84","Jakarta Barat","DKI Jakarta",085012345690,120,31,1,12000,"Beras Sania 5kg",Makanan,68000,180
+32,32,2024-04-10,71000,selesai,"Rina Wijayanti",rina.wijayanti@email.com,"Jl. Monginsidi No. 69",Makassar,"Sulawesi Selatan",085678901245,63,31,2,24000,"Beras Sania 5kg",Makanan,68000,180
+198,93,2025-09-07,126000,dibayar,"Nina Sari",nina.sari@email.com,"Jl. Teuku Umar No. 34","Banda Aceh",Aceh,081678901278,396,32,2,32000,"Telur Ayam Kampung",Makanan,3500,1000
+116,11,2025-01-02,95000,dikirim,"Eko Prasetyo",eko.prasetyo@email.com,"Jl. Hayam Wuruk No. 56","Jakarta Barat","DKI Jakarta",081567890123,231,32,1,8000,"Telur Ayam Kampung",Makanan,3500,1000
+98,98,2024-10-28,111000,dibayar,"Rudi Wijaya",rudi.wijaya@email.com,"Jl. Diponegoro No. 104",Semarang,"Jawa Tengah",082901234501,196,32,3,48000,"Telur Ayam Kampung",Makanan,3500,1000
+61,61,2024-07-07,106000,dikirim,"Budi Pratama",budi.pratama@email.com,"Jl. Asia Afrika No. 39",Bandung,"Jawa Barat",081012345690,122,32,1,8000,"Telur Ayam Kampung",Makanan,3500,1000
+9,9,2024-02-10,200000,dibayar,"Dimas Aditya",dimas.aditya@email.com,"Jl. Raya Bogor Km. 28",Bogor,"Jawa Barat",081456789012,17,32,2,16000,"Telur Ayam Kampung",Makanan,3500,1000
+115,10,2024-12-29,37000,dibatalkan,"Nadia Putri",nadia.putri@email.com,"Jl. Kenanga No. 9",Denpasar,Bali,082345678901,230,33,2,44000,"Ayam Broiler/kg",Makanan,38000,200
+62,62,2024-07-10,81000,selesai,"Siti Rahayu",siti.rahayu@email.com,"Jl. Pahlawan No. 80",Makassar,"Sulawesi Selatan",082123456701,124,33,1,22000,"Ayam Broiler/kg",Makanan,38000,200
+8,8,2024-02-05,75000,selesai,"Lina Marlina",lina.marlina@email.com,"Jl. Ahmad Yani No. 21",Palembang,"Sumatera Selatan",085345678901,16,33,3,66000,"Ayam Broiler/kg",Makanan,38000,200
+139,34,2025-03-12,69000,selesai,"Linda Sari",linda.sari@email.com,"Jl. Sudirman No. 82",Palembang,"Sumatera Selatan",082789012356,277,34,2,24000,"Ikan Lele/kg",Makanan,32000,150
+63,63,2024-07-13,94000,dibayar,"Dian Sari",dian.sari@email.com,"Jl. Imam Bonjol No. 66",Padang,"Sumatera Barat",081123456701,126,34,1,12000,"Ikan Lele/kg",Makanan,32000,150
+33,33,2024-04-13,85000,dibayar,"Hadi Sutrisno",hadi.sutrisno@email.com,"Jl. Pemuda No. 3",Semarang,"Jawa Tengah",081678901245,65,34,1,12000,"Ikan Lele/kg",Makanan,32000,150
+201,96,2025-09-16,95000,dikirim,"Agus Prasetyo",agus.prasetyo@email.com,"Jl. Pattimura No. 65",Manado,"Sulawesi Utara",085890123490,402,35,1,78000,"Udang Windu/kg",Makanan,120000,80
+174,69,2025-06-25,106000,selesai,"Riska Sari",riska.sari@email.com,"Jl. Sultan Agung No. 15",Tangerang,Banten,081456789045,347,35,2,156000,"Udang Windu/kg",Makanan,120000,80
+112,7,2024-12-20,89000,selesai,"Andi Pratama",andi.pratama@email.com,"Jl. Pahlawan No. 67",Makassar,"Sulawesi Selatan",081345670987,224,35,1,78000,"Udang Windu/kg",Makanan,120000,80
+101,101,2024-11-07,105000,dikirim,"Maya Wijaya",maya.wijaya@email.com,"Jl. Gatot Subroto No. 39",Medan,"Sumatera Utara",081012345612,202,35,1,78000,"Udang Windu/kg",Makanan,120000,80
+74,74,2024-08-16,62000,selesai,"Irfan Wijaya",irfan.wijaya@email.com,"Jl. Thamrin No. 12","Jakarta Pusat","DKI Jakarta",082789012378,147,35,1,78000,"Udang Windu/kg",Makanan,120000,80
+64,64,2024-07-16,66000,selesai,"Agus Santoso",agus.santoso@email.com,"Jl. Sudirman No. 95",Bandung,"Jawa Barat",085234567812,128,35,1,78000,"Udang Windu/kg",Makanan,120000,80
+5,5,2024-01-25,95000,selesai,"Rizky Ramadhan",rizky.ramadhan@email.com,"Jl. Veteran No. 12",Yogyakarta,"DI Yogyakarta",081234509876,10,35,1,78000,"Udang Windu/kg",Makanan,120000,80
+125,20,2025-01-29,44000,dibatalkan,"Lia Kurniawati",lia.kurniawati@email.com,"Jl. Antasari No. 52",Pontianak,"Kalimantan Barat",082012345678,249,36,2,28000,"Kecap Bango",Makanan,14000,400
+65,65,2024-07-19,45000,dibatalkan,"Lina Wijayanti",lina.wijayanti@email.com,"Jl. Kartini No. 26",Malang,"Jawa Timur",081234567823,130,36,1,14000,"Kecap Bango",Makanan,14000,400
+19,19,2024-03-08,138000,selesai,"Rudi Hartono",rudi.hartono@email.com,"Jl. Jend. Sudirman No. 89",Pekanbaru,Riau,081901234567,37,36,1,14000,"Kecap Bango",Makanan,14000,400
+140,35,2025-03-15,45000,dibatalkan,"Rizal Fadillah",rizal.fadillah@email.com,"Jl. Merdeka No. 4",Pekanbaru,Riau,081789012356,279,37,1,9500,"Saus Sambal ABC",Makanan,9000,500
+66,66,2024-07-22,119000,dikirim,"Fajar Wijaya",fajar.wijaya@email.com,"Jl. Rajawali No. 5",Banjarmasin,"Kalimantan Selatan",082345678934,132,37,1,9500,"Saus Sambal ABC",Makanan,9000,500
+34,34,2024-04-16,62000,selesai,"Linda Sari",linda.sari@email.com,"Jl. Sudirman No. 82",Palembang,"Sumatera Selatan",082789012356,67,37,2,19000,"Saus Sambal ABC",Makanan,9000,500
+188,83,2025-08-07,74000,dibayar,"Maya Putri",maya.putri@email.com,"Jl. Imam Bonjol No. 101",Padang,"Sumatera Barat",081123456712,376,38,1,33000,"Bumbu Racik Soto",Makanan,7000,300
+120,15,2025-01-14,78000,dibatalkan,"Agus Firmansyah",agus.firmansyah@email.com,"Jl. Rajawali No. 19",Banjarmasin,"Kalimantan Selatan",081789012345,240,38,1,22000,"Bumbu Racik Soto",Makanan,7000,300
+88,88,2024-09-28,66000,dibayar,"Bambang Wijaya",bambang.wijaya@email.com,"Jl. Sultan Agung No. 57",Tegal,"Jawa Tengah",085456789056,176,38,1,33000,"Bumbu Racik Soto",Makanan,7000,300
+67,67,2024-07-25,87000,selesai,"Nadia Sari",nadia.sari@email.com,"Jl. Pattimura No. 72",Manado,"Sulawesi Utara",081345678934,134,38,1,22000,"Bumbu Racik Soto",Makanan,7000,300
+13,13,2024-02-20,101000,dibayar,"Hendra Wijaya",hendra.wijaya@email.com,"Jl. Asia Afrika No. 33",Bandung,"Jawa Barat",081678901234,26,38,2,44000,"Bumbu Racik Soto",Makanan,7000,300
+141,36,2025-03-18,108000,dikirim,"Dewi Puspita",dewi.puspita@email.com,"Jl. Sultan Iskandar Muda No. 29","Banda Aceh",Aceh,085890123467,281,39,1,47000,"Tepung Terigu Segitiga",Makanan,12000,250
+68,68,2024-07-28,73000,dibayar,"Eko Wijaya",eko.wijaya@email.com,"Jl. Teuku Umar No. 30","Aceh Besar",Aceh,085456789045,136,39,1,47000,"Tepung Terigu Segitiga",Makanan,12000,250
+35,35,2024-04-19,47000,dibatalkan,"Rizal Fadillah",rizal.fadillah@email.com,"Jl. Merdeka No. 4",Pekanbaru,Riau,081789012356,69,39,1,47000,"Tepung Terigu Segitiga",Makanan,12000,250
+202,97,2025-09-19,82000,selesai,"Siska Wijaya",siska.wijaya@email.com,"Jl. Jend. Sudirman No. 86",Pekanbaru,Riau,081890123490,403,40,2,11000,"Mentega Blue Band",Makanan,16000,200
+174,69,2025-06-25,106000,selesai,"Riska Sari",riska.sari@email.com,"Jl. Sultan Agung No. 15",Tangerang,Banten,081456789045,348,40,1,5500,"Mentega Blue Band",Makanan,16000,200
+113,8,2024-12-23,76000,dibayar,"Lina Marlina",lina.marlina@email.com,"Jl. Ahmad Yani No. 21",Palembang,"Sumatera Selatan",085345678901,225,40,1,5500,"Mentega Blue Band",Makanan,16000,200
+102,102,2024-11-10,80000,selesai,"Adi Wijaya",adi.wijaya@email.com,"Jl. Cendana No. 58",Denpasar,Bali,082123456723,203,40,1,5500,"Mentega Blue Band",Makanan,16000,200
+74,74,2024-08-16,62000,selesai,"Irfan Wijaya",irfan.wijaya@email.com,"Jl. Thamrin No. 12","Jakarta Pusat","DKI Jakarta",082789012378,148,40,1,5500,"Mentega Blue Band",Makanan,16000,200
+69,69,2024-08-01,105000,selesai,"Riska Sari",riska.sari@email.com,"Jl. Sultan Agung No. 15",Tangerang,Banten,081456789045,138,40,1,5500,"Mentega Blue Band",Makanan,16000,200
+6,6,2024-01-28,43000,dibatalkan,"Putri Wulandari",putri.wulandari@email.com,"Jl. Cendana No. 34",Semarang,"Jawa Tengah",082234567890,11,40,2,11000,"Mentega Blue Band",Makanan,16000,200
+187,82,2025-08-04,83000,selesai,"Indra Prasetyo",indra.prasetyo@email.com,"Jl. Sam Ratulangi No. 85",Manado,"Sulawesi Utara",082123456712,374,41,1,44000,"Teh Botol Sosro",Minuman,5000,900
+126,21,2025-02-01,97000,dikirim,"Yusuf Maulana",yusuf.maulana@email.com,"Jl. Cut Nyak Dhien No. 38","Banda Aceh",Aceh,081012345678,251,41,1,55000,"Teh Botol Sosro",Minuman,5000,900
+87,87,2024-09-25,101000,selesai,"Siti Lestari",siti.lestari@email.com,"Jl. Pattimura No. 33",Ambon,Maluku,081345678945,174,41,1,44000,"Teh Botol Sosro",Minuman,5000,900
+20,20,2024-03-10,55000,dibatalkan,"Lia Kurniawati",lia.kurniawati@email.com,"Jl. Antasari No. 52",Pontianak,"Kalimantan Barat",082012345678,39,41,1,55000,"Teh Botol Sosro",Minuman,5000,900
+185,80,2025-07-28,68000,dibatalkan,"Arief Prasetyo",arief.prasetyo@email.com,"Jl. Veteran No. 7",Malang,"Jawa Timur",085012345601,369,42,1,37000,"Fruit Tea",Minuman,5500,850
+85,85,2024-09-19,39000,dibatalkan,"Rina Dewi",rina.dewi@email.com,"Jl. A. Yani No. 49",Banjarmasin,"Kalimantan Selatan",081234567834,169,42,1,39000,"Fruit Tea",Minuman,5500,850
+14,14,2024-02-22,37000,dibatalkan,"Maya Sari",maya.sari@email.com,"Jl. Kartini No. 41",Malang,"Jawa Timur",085789012345,27,42,1,37000,"Fruit Tea",Minuman,5500,850
+131,26,2025-02-16,102000,dikirim,"Riska Amalia",riska.amalia@email.com,"Jl. Thamrin No. 6","Jakarta Pusat","DKI Jakarta",082345678912,262,43,1,18000,"Pocari Sweat",Minuman,8000,600
+25,25,2024-03-23,46000,dibatalkan,"Irfan Hakim",irfan.hakim@email.com,"Jl. K.H. Mas Mansyur No. 25","Jakarta Selatan","DKI Jakarta",081234567801,50,43,1,18000,"Pocari Sweat",Minuman,8000,600
+142,37,2025-03-21,89000,selesai,"Arief Budiman",arief.budiman@email.com,"Jl. Veteran No. 16",Malang,"Jawa Timur",081890123467,283,44,2,44000,"Le Minerale",Minuman,3500,1200
+36,36,2024-04-22,109000,dikirim,"Dewi Puspita",dewi.puspita@email.com,"Jl. Sultan Iskandar Muda No. 29","Banda Aceh",Aceh,085890123467,71,44,1,22000,"Le Minerale",Minuman,3500,1200
+202,97,2025-09-19,82000,selesai,"Siska Wijaya",siska.wijaya@email.com,"Jl. Jend. Sudirman No. 86",Pekanbaru,Riau,081890123490,404,45,1,32000,Yakult,Minuman,8500,300
+175,70,2025-06-28,57000,dibatalkan,"Yusuf Santoso",yusuf.santoso@email.com,"Jl. WR Supratman No. 60",Cirebon,"Jawa Barat",082567890156,349,45,2,64000,Yakult,Minuman,8500,300
+113,8,2024-12-23,76000,dibayar,"Lina Marlina",lina.marlina@email.com,"Jl. Ahmad Yani No. 21",Palembang,"Sumatera Selatan",085345678901,226,45,1,32000,Yakult,Minuman,8500,300
+102,102,2024-11-10,80000,selesai,"Adi Wijaya",adi.wijaya@email.com,"Jl. Cendana No. 58",Denpasar,Bali,082123456723,204,45,2,64000,Yakult,Minuman,8500,300
+75,75,2024-08-19,77000,dibatalkan,"Rina Agustina",rina.agustina2@email.com,"Jl. Monginsidi No. 88",Makassar,"Sulawesi Selatan",081789012378,149,45,1,32000,Yakult,Minuman,8500,300
+6,6,2024-01-28,43000,dibatalkan,"Putri Wulandari",putri.wulandari@email.com,"Jl. Cendana No. 34",Semarang,"Jawa Tengah",082234567890,12,45,1,32000,Yakult,Minuman,8500,300
+187,82,2025-08-04,83000,selesai,"Indra Prasetyo",indra.prasetyo@email.com,"Jl. Sam Ratulangi No. 85",Manado,"Sulawesi Utara",082123456712,373,46,1,57000,"Shampoo Clear","Perawatan Tubuh",13000,350
+121,16,2025-01-17,111000,dikirim,"Sari Indah",sari.indah@email.com,"Jl. Pattimura No. 63",Manado,"Sulawesi Utara",082890123456,242,46,1,57000,"Shampoo Clear","Perawatan Tubuh",13000,350
+87,87,2024-09-25,101000,selesai,"Siti Lestari",siti.lestari@email.com,"Jl. Pattimura No. 33",Ambon,Maluku,081345678945,173,46,1,57000,"Shampoo Clear","Perawatan Tubuh",13000,350
+15,15,2024-02-25,125000,selesai,"Agus Firmansyah",agus.firmansyah@email.com,"Jl. Rajawali No. 19",Banjarmasin,"Kalimantan Selatan",081789012345,30,46,1,57000,"Shampoo Clear","Perawatan Tubuh",13000,350
+143,38,2025-03-24,77000,dibayar,"Siska Anggraini",siska.anggraini@email.com,"Jl. Cik Di Tiro No. 51",Yogyakarta,"DI Yogyakarta",082901234578,285,47,1,92000,"Sabun Giv","Perawatan Tubuh",5500,450
+37,37,2024-04-25,82000,selesai,"Arief Budiman",arief.budiman@email.com,"Jl. Veteran No. 16",Malang,"Jawa Timur",081890123467,73,47,2,184000,"Sabun Giv","Perawatan Tubuh",5500,450
+117,12,2025-01-05,82000,selesai,"Rina Agustina",rina.agustina@email.com,"Jl. Imam Bonjol No. 77",Padang,"Sumatera Barat",082456789012,234,48,1,28000,"Lipstik Wardah","Perawatan Tubuh",32000,150
+10,10,2024-02-12,62000,selesai,"Nadia Putri",nadia.putri@email.com,"Jl. Kenanga No. 9",Denpasar,Bali,082345678901,20,48,2,56000,"Lipstik Wardah","Perawatan Tubuh",32000,150
+135,30,2025-02-28,72000,dibatalkan,"Siska Dewi",siska.dewi@email.com,"Jl. Basuki Rahmat No. 42",Surabaya,"Jawa Timur",082567890134,270,49,3,46400,"Face Wash Scarlett","Perawatan Tubuh",28000,200
+29,29,2024-04-02,58000,selesai,"Wahyu Saputra",wahyu.saputra@email.com,"Jl. Ir. H. Juanda No. 55",Surabaya,"Jawa Timur",081456789023,58,49,3,46400,"Face Wash Scarlett","Perawatan Tubuh",28000,200
+203,98,2025-09-22,110000,dibayar,"Rudi Wijaya",rudi.wijaya@email.com,"Jl. Diponegoro No. 104",Semarang,"Jawa Tengah",082901234501,405,50,2,64000,"Masker Wardah","Perawatan Tubuh",22000,180
+175,70,2025-06-28,57000,dibatalkan,"Yusuf Santoso",yusuf.santoso@email.com,"Jl. WR Supratman No. 60",Cirebon,"Jawa Barat",082567890156,350,50,1,32000,"Masker Wardah","Perawatan Tubuh",22000,180
+114,9,2024-12-26,110000,selesai,"Dimas Aditya",dimas.aditya@email.com,"Jl. Raya Bogor Km. 28",Bogor,"Jawa Barat",081456789012,227,50,1,32000,"Masker Wardah","Perawatan Tubuh",22000,180
+103,103,2024-11-13,93000,dibayar,"Rina Sari",rina.sari@email.com,"Jl. Hayam Wuruk No. 95","Jakarta Barat","DKI Jakarta",081123456723,205,50,1,32000,"Masker Wardah","Perawatan Tubuh",22000,180
+75,75,2024-08-19,77000,dibatalkan,"Rina Agustina",rina.agustina2@email.com,"Jl. Monginsidi No. 88",Makassar,"Sulawesi Selatan",081789012378,150,50,1,32000,"Masker Wardah","Perawatan Tubuh",22000,180
+7,7,2024-02-01,110000,dikirim,"Andi Pratama",andi.pratama@email.com,"Jl. Pahlawan No. 67",Makassar,"Sulawesi Selatan",081345670987,13,50,2,64000,"Masker Wardah","Perawatan Tubuh",22000,180
+188,83,2025-08-07,74000,dibayar,"Maya Putri",maya.putri@email.com,"Jl. Imam Bonjol No. 101",Padang,"Sumatera Barat",081123456712,375,51,2,66000,"Popok Merries",Bayi,92000,120
+122,17,2025-01-20,94000,selesai,"Fajar Nugroho",fajar.nugroho@email.com,"Jl. Teuku Umar No. 27","Aceh Besar",Aceh,081890123456,244,51,2,66000,"Popok Merries",Bayi,92000,120
+88,88,2024-09-28,66000,dibayar,"Bambang Wijaya",bambang.wijaya@email.com,"Jl. Sultan Agung No. 57",Tegal,"Jawa Tengah",085456789056,175,51,1,33000,"Popok Merries",Bayi,92000,120
+16,16,2024-02-28,90000,dikirim,"Sari Indah",sari.indah@email.com,"Jl. Pattimura No. 63",Manado,"Sulawesi Utara",082890123456,32,51,2,66000,"Popok Merries",Bayi,92000,120
+138,33,2025-03-09,96000,dibayar,"Hadi Sutrisno",hadi.sutrisno@email.com,"Jl. Pemuda No. 3",Semarang,"Jawa Tengah",081678901245,276,52,2,47000,"Susu Frisian Flag 123",Bayi,62000,220
+32,32,2024-04-10,71000,selesai,"Rina Wijayanti",rina.wijayanti@email.com,"Jl. Monginsidi No. 69",Makassar,"Sulawesi Selatan",085678901245,64,52,2,47000,"Susu Frisian Flag 123",Bayi,62000,220
+140,35,2025-03-15,45000,dibatalkan,"Rizal Fadillah",rizal.fadillah@email.com,"Jl. Merdeka No. 4",Pekanbaru,Riau,081789012356,280,53,1,43000,"Baby Diaper Huggies",Bayi,88000,130
+34,34,2024-04-16,62000,selesai,"Linda Sari",linda.sari@email.com,"Jl. Sudirman No. 82",Palembang,"Sumatera Selatan",082789012356,68,53,1,43000,"Baby Diaper Huggies",Bayi,88000,130
+143,38,2025-03-24,77000,dibayar,"Siska Anggraini",siska.anggraini@email.com,"Jl. Cik Di Tiro No. 51",Yogyakarta,"DI Yogyakarta",082901234578,286,54,1,17000,"Tisu Basah Sleek",Bayi,16000,420
+37,37,2024-04-25,82000,selesai,"Arief Budiman",arief.budiman@email.com,"Jl. Veteran No. 16",Malang,"Jawa Timur",081890123467,74,54,1,17000,"Tisu Basah Sleek",Bayi,16000,420
+203,98,2025-09-22,110000,dibayar,"Rudi Wijaya",rudi.wijaya@email.com,"Jl. Diponegoro No. 104",Semarang,"Jawa Tengah",082901234501,406,55,1,36000,"Biskuit Bayi Milna",Bayi,25000,210
+176,71,2025-07-01,92000,dikirim,"Anita Wijaya",anita.wijaya@email.com,"Jl. Pemuda No. 9",Balikpapan,"Kalimantan Timur",081567890156,351,55,1,36000,"Biskuit Bayi Milna",Bayi,25000,210
+119,14,2025-01-11,63000,selesai,"Maya Sari",maya.sari@email.com,"Jl. Kartini No. 41",Malang,"Jawa Timur",085789012345,238,55,2,72000,"Biskuit Bayi Milna",Bayi,25000,210
+103,103,2024-11-13,93000,dibayar,"Rina Sari",rina.sari@email.com,"Jl. Hayam Wuruk No. 95","Jakarta Barat","DKI Jakarta",081123456723,206,55,1,36000,"Biskuit Bayi Milna",Bayi,25000,210
+76,76,2024-08-22,108000,dikirim,"Hadi Prasetyo",hadi.prasetyo@email.com,"Jl. Pemuda No. 4",Semarang,"Jawa Tengah",085890123489,151,55,1,36000,"Biskuit Bayi Milna",Bayi,25000,210
+12,12,2024-02-18,54000,selesai,"Rina Agustina",rina.agustina@email.com,"Jl. Imam Bonjol No. 77",Padang,"Sumatera Barat",082456789012,24,55,1,36000,"Biskuit Bayi Milna",Bayi,25000,210
+186,81,2025-08-01,120000,dikirim,"Siska Marlina",siska.marlina@email.com,"Jl. Cik Di Tiro No. 64",Yogyakarta,"DI Yogyakarta",081012345601,372,56,1,42000,"Sampoerna Kretek",Rokok,25000,110
+124,19,2025-01-26,105000,selesai,"Rudi Hartono",rudi.hartono@email.com,"Jl. Jend. Sudirman No. 89",Pekanbaru,Riau,081901234567,248,56,2,55000,"Sampoerna Kretek",Rokok,25000,110
+86,86,2024-09-22,93000,dikirim,"Anton Prasetyo",anton.prasetyo@email.com,"Jl. Gatot Subroto No. 83",Denpasar,Bali,082345678945,172,56,1,42000,"Sampoerna Kretek",Rokok,25000,110
+18,18,2024-03-05,64000,dibayar,"Dian Permata",dian.permata@email.com,"Jl. Sultan Agung No. 11",Tangerang,Banten,085901234567,36,56,2,55000,"Sampoerna Kretek",Rokok,25000,110
+128,23,2025-02-07,118000,dibayar,"Bayu Setiawan",bayu.setiawan@email.com,"Jl. Pemuda No. 90",Balikpapan,"Kalimantan Timur",081123456789,256,57,1,17000,"Class Mild",Rokok,27000,100
+22,22,2024-03-15,83000,selesai,"Anita Sari",anita.sari@email.com,"Jl. WR Supratman No. 74",Cirebon,"Jawa Barat",082123456789,44,57,1,17000,"Class Mild",Rokok,27000,100
+130,25,2025-02-13,73000,dibatalkan,"Irfan Hakim",irfan.hakim@email.com,"Jl. K.H. Mas Mansyur No. 25","Jakarta Selatan","DKI Jakarta",081234567801,260,58,2,66000,"Clas Mild Menthol",Rokok,27500,95
+24,24,2024-03-20,69000,selesai,"Fitri Handayani",fitri.handayani@email.com,"Jl. Gajah Mada No. 14",Samarinda,"Kalimantan Timur",085234567890,48,58,1,33000,"Clas Mild Menthol",Rokok,27500,95
+133,28,2025-02-22,94000,dibayar,"Nurul Huda",nurul.huda@email.com,"Jl. Pangeran Diponegoro No. 7",Bandung,"Jawa Barat",085456789023,266,59,1,20500,"Gudang Garam Signature",Rokok,29000,80
+27,27,2024-03-28,79000,selesai,"Taufik Hidayat",taufik.hidayat@email.com,"Jl. Mangga Besar No. 31","Jakarta Barat","DKI Jakarta",081345678912,54,59,2,41000,"Gudang Garam Signature",Rokok,29000,80
+204,99,2025-09-25,57000,selesai,"Lia Sari",lia.sari@email.com,"Jl. Merdeka No. 21",Palu,"Sulawesi Tengah",081901234501,407,60,1,46000,"U Mild",Rokok,22000,140
+176,71,2025-07-01,92000,dikirim,"Anita Wijaya",anita.wijaya@email.com,"Jl. Pemuda No. 9",Balikpapan,"Kalimantan Timur",081567890156,352,60,1,46000,"U Mild",Rokok,22000,140
+114,9,2024-12-26,110000,selesai,"Dimas Aditya",dimas.aditya@email.com,"Jl. Raya Bogor Km. 28",Bogor,"Jawa Barat",081456789012,228,60,1,46000,"U Mild",Rokok,22000,140
+104,104,2024-11-16,65000,selesai,"Budi Wijaya",budi.wijaya@email.com,"Jl. Asia Afrika No. 50",Bandung,"Jawa Barat",085234567834,207,60,1,46000,"U Mild",Rokok,22000,140
+76,76,2024-08-22,108000,dikirim,"Hadi Prasetyo",hadi.prasetyo@email.com,"Jl. Pemuda No. 4",Semarang,"Jawa Tengah",085890123489,152,60,2,92000,"U Mild",Rokok,22000,140
+7,7,2024-02-01,110000,dikirim,"Andi Pratama",andi.pratama@email.com,"Jl. Pahlawan No. 67",Makassar,"Sulawesi Selatan",081345670987,14,60,1,46000,"U Mild",Rokok,22000,140
+189,84,2025-08-10,108000,selesai,"Dani Wijaya",dani.wijaya@email.com,"Jl. Diponegoro No. 76",Semarang,"Jawa Tengah",085234567823,377,61,1,62000,"Buku Gambar Karton","Alat Tulis",12000,300
+125,20,2025-01-29,44000,dibatalkan,"Lia Kurniawati",lia.kurniawati@email.com,"Jl. Antasari No. 52",Pontianak,"Kalimantan Barat",082012345678,250,61,2,124000,"Buku Gambar Karton","Alat Tulis",12000,300
+89,89,2024-10-01,72000,selesai,"Dinda Sari",dinda.sari@email.com,"Jl. Veteran No. 25",Solo,"Jawa Tengah",081456789056,177,61,2,124000,"Buku Gambar Karton","Alat Tulis",12000,300
+19,19,2024-03-08,138000,selesai,"Rudi Hartono",rudi.hartono@email.com,"Jl. Jend. Sudirman No. 89",Pekanbaru,Riau,081901234567,38,61,3,124000,"Buku Gambar Karton","Alat Tulis",12000,300
+129,24,2025-02-10,68000,selesai,"Fitri Handayani",fitri.handayani@email.com,"Jl. Gajah Mada No. 14",Samarinda,"Kalimantan Timur",085234567890,258,62,1,46500,"Spidol Snowman","Alat Tulis",8000,400
+23,23,2024-03-18,115000,dibayar,"Bayu Setiawan",bayu.setiawan@email.com,"Jl. Pemuda No. 90",Balikpapan,"Kalimantan Timur",081123456789,46,62,2,93000,"Spidol Snowman","Alat Tulis",8000,400
+204,99,2025-09-25,57000,selesai,"Lia Sari",lia.sari@email.com,"Jl. Merdeka No. 21",Palu,"Sulawesi Tengah",081901234501,408,65,1,46000,"Gunting Fiskars","Alat Tulis",28000,180
+177,72,2025-07-04,83000,selesai,"Bayu Prasetyo",bayu.prasetyo@email.com,"Jl. Gajah Mada No. 23",Samarinda,"Kalimantan Timur",085678901267,353,65,1,46000,"Gunting Fiskars","Alat Tulis",28000,180
+116,11,2025-01-02,95000,dikirim,"Eko Prasetyo",eko.prasetyo@email.com,"Jl. Hayam Wuruk No. 56","Jakarta Barat","DKI Jakarta",081567890123,232,65,3,138000,"Gunting Fiskars","Alat Tulis",28000,180
+104,104,2024-11-16,65000,selesai,"Budi Wijaya",budi.wijaya@email.com,"Jl. Asia Afrika No. 50",Bandung,"Jawa Barat",085234567834,208,65,1,46000,"Gunting Fiskars","Alat Tulis",28000,180
+77,77,2024-08-25,89000,selesai,"Linda Wijaya",linda.wijaya@email.com,"Jl. Sudirman No. 9",Palembang,"Sumatera Selatan",081890123489,153,65,2,92000,"Gunting Fiskars","Alat Tulis",28000,180
+9,9,2024-02-10,200000,dibayar,"Dimas Aditya",dimas.aditya@email.com,"Jl. Raya Bogor Km. 28",Bogor,"Jawa Barat",081456789012,18,65,4,184000,"Gunting Fiskars","Alat Tulis",28000,180
+190,85,2025-08-13,37000,dibatalkan,"Rina Dewi",rina.dewi@email.com,"Jl. A. Yani No. 49",Banjarmasin,"Kalimantan Selatan",081234567834,379,66,1,92000,"Beras Pandan Wangi 5kg",Makanan,72000,160
+127,22,2025-02-04,85000,selesai,"Anita Sari",anita.sari@email.com,"Jl. WR Supratman No. 74",Cirebon,"Jawa Barat",082123456789,254,66,1,33500,"Beras Pandan Wangi 5kg",Makanan,72000,160
+90,90,2024-10-04,114000,dibatalkan,"Ferry Wijaya",ferry.wijaya@email.com,"Jl. Diponegoro No. 102",Kediri,"Jawa Timur",082567890167,179,66,1,93000,"Beras Pandan Wangi 5kg",Makanan,72000,160
+21,21,2024-03-12,92000,dikirim,"Yusuf Maulana",yusuf.maulana@email.com,"Jl. Cut Nyak Dhien No. 38","Banda Aceh",Aceh,081012345678,42,66,2,67000,"Beras Pandan Wangi 5kg",Makanan,72000,160
+132,27,2025-02-19,87000,selesai,"Taufik Hidayat",taufik.hidayat@email.com,"Jl. Mangga Besar No. 31","Jakarta Barat","DKI Jakarta",081345678912,264,67,2,49000,"Daging Sapi/kg",Makanan,120000,100
+26,26,2024-03-26,105000,dikirim,"Riska Amalia",riska.amalia@email.com,"Jl. Thamrin No. 6","Jakarta Pusat","DKI Jakarta",082345678912,52,67,2,49000,"Daging Sapi/kg",Makanan,120000,100
+139,34,2025-03-12,69000,selesai,"Linda Sari",linda.sari@email.com,"Jl. Sudirman No. 82",Palembang,"Sumatera Selatan",082789012356,278,68,1,36500,"Telur Ayam Biasa",Makanan,2800,1200
+33,33,2024-04-13,85000,dibayar,"Hadi Sutrisno",hadi.sutrisno@email.com,"Jl. Pemuda No. 3",Semarang,"Jawa Tengah",081678901245,66,68,2,73000,"Telur Ayam Biasa",Makanan,2800,1200
+142,37,2025-03-21,89000,selesai,"Arief Budiman",arief.budiman@email.com,"Jl. Veteran No. 16",Malang,"Jawa Timur",081890123467,284,69,2,58000,"Tahu Putih/pcs",Makanan,2000,800
+36,36,2024-04-22,109000,dikirim,"Dewi Puspita",dewi.puspita@email.com,"Jl. Sultan Iskandar Muda No. 29","Banda Aceh",Aceh,085890123467,72,69,3,87000,"Tahu Putih/pcs",Makanan,2000,800
+205,100,2025-09-28,72000,dibatalkan,"Toni Wijaya",toni.wijaya@email.com,"Jl. A. Yani No. 73",Banjarmasin,"Kalimantan Selatan",085012345612,409,70,1,15000,"Tempe 1 papan",Makanan,5000,600
+177,72,2025-07-04,83000,selesai,"Bayu Prasetyo",bayu.prasetyo@email.com,"Jl. Gajah Mada No. 23",Samarinda,"Kalimantan Timur",085678901267,354,70,1,15000,"Tempe 1 papan",Makanan,5000,600
+123,18,2025-01-23,81000,dibayar,"Dian Permata",dian.permata@email.com,"Jl. Sultan Agung No. 11",Tangerang,Banten,085901234567,246,70,1,68000,"Tempe 1 papan",Makanan,5000,600
+105,105,2024-11-19,44000,dibatalkan,"Siti Marlina",siti.marlina@email.com,"Jl. Pahlawan No. 91",Makassar,"Sulawesi Selatan",081234567845,209,70,1,15000,"Tempe 1 papan",Makanan,5000,600
+77,77,2024-08-25,89000,selesai,"Linda Wijaya",linda.wijaya@email.com,"Jl. Sudirman No. 9",Palembang,"Sumatera Selatan",081890123489,154,70,1,15000,"Tempe 1 papan",Makanan,5000,600
+17,17,2024-03-02,77000,selesai,"Fajar Nugroho",fajar.nugroho@email.com,"Jl. Teuku Umar No. 27","Aceh Besar",Aceh,081890123456,34,70,1,68000,"Tempe 1 papan",Makanan,5000,600
+191,86,2025-08-16,92000,dikirim,"Anton Prasetyo",anton.prasetyo@email.com,"Jl. Gatot Subroto No. 83",Denpasar,Bali,082345678945,381,71,2,12000,"Kecap ABC",Makanan,13000,420
+134,29,2025-02-25,58000,selesai,"Wahyu Saputra",wahyu.saputra@email.com,"Jl. Ir. H. Juanda No. 55",Surabaya,"Jawa Timur",081456789023,268,71,1,6000,"Kecap ABC",Makanan,13000,420
+91,91,2024-10-07,87000,dikirim,"Lina Putri",lina.putri@email.com,"Jl. Sudirman No. 71",Jambi,Jambi,081567890167,181,71,1,6000,"Kecap ABC",Makanan,13000,420
+28,28,2024-03-30,132000,dibayar,"Nurul Huda",nurul.huda@email.com,"Jl. Pangeran Diponegoro No. 7",Bandung,"Jawa Barat",085456789023,56,71,2,12000,"Kecap ABC",Makanan,13000,420
+137,32,2025-03-06,83000,selesai,"Rina Wijayanti",rina.wijayanti@email.com,"Jl. Monginsidi No. 69",Makassar,"Sulawesi Selatan",085678901245,274,72,4,90400,"Saus Tomat Del Monte",Makanan,12000,380
+31,31,2024-04-08,118000,dikirim,"Aditya Pratama",aditya.pratama@email.com,"Jl. Ahmad Dahlan No. 18",Yogyakarta,"DI Yogyakarta",081567890134,62,72,5,113000,"Saus Tomat Del Monte",Makanan,12000,380
+144,39,2025-03-27,111000,selesai,"Indra Wijaya",indra.wijaya@email.com,"Jl. Sam Ratulangi No. 73",Manado,"Sulawesi Utara",081901234578,287,73,1,95000,"Bumbu Racik Rendang",Makanan,8000,280
+38,38,2024-04-28,95000,dibayar,"Siska Anggraini",siska.anggraini@email.com,"Jl. Cik Di Tiro No. 51",Yogyakarta,"DI Yogyakarta",082901234578,75,73,2,220000,"Bumbu Racik Rendang",Makanan,8000,280
+145,40,2025-03-30,38000,dibatalkan,"Maya Lestari",maya.lestari@email.com,"Jl. Imam Bonjol No. 99",Padang,"Sumatera Barat",085012345689,289,74,2,42000,"Tepung Maizena",Makanan,10000,300
+39,39,2024-05-01,63000,selesai,"Indra Wijaya",indra.wijaya@email.com,"Jl. Sam Ratulangi No. 73",Manado,"Sulawesi Utara",081901234578,77,74,3,63000,"Tepung Maizena",Makanan,10000,300
+205,100,2025-09-28,72000,dibatalkan,"Toni Wijaya",toni.wijaya@email.com,"Jl. A. Yani No. 73",Banjarmasin,"Kalimantan Selatan",085012345612,410,75,1,29000,"Margarin Palmia",Makanan,15000,230
+183,78,2025-07-22,95000,dibayar,"Rizal Wijaya",rizal.wijaya@email.com,"Jl. Merdeka No. 2",Pekanbaru,Riau,082901234590,366,75,1,30000,"Margarin Palmia",Makanan,15000,230
+178,73,2025-07-07,115000,dibayar,"Fitri Sari",fitri.sari@email.com,"Jl. K.H. Mas Mansyur No. 33","Jakarta Selatan","DKI Jakarta",081678901267,355,75,2,76000,"Margarin Palmia",Makanan,15000,230
+118,13,2025-01-08,128000,dibayar,"Hendra Wijaya",hendra.wijaya@email.com,"Jl. Asia Afrika No. 33",Bandung,"Jawa Barat",081678901234,236,75,1,38000,"Margarin Palmia",Makanan,15000,230
+105,105,2024-11-19,44000,dibatalkan,"Siti Marlina",siti.marlina@email.com,"Jl. Pahlawan No. 91",Makassar,"Sulawesi Selatan",081234567845,210,75,1,29000,"Margarin Palmia",Makanan,15000,230
+83,83,2024-09-13,75000,dibayar,"Maya Putri",maya.putri@email.com,"Jl. Imam Bonjol No. 101",Padang,"Sumatera Barat",081123456712,166,75,1,30000,"Margarin Palmia",Makanan,15000,230
+78,78,2024-08-28,96000,dibayar,"Rizal Wijaya",rizal.wijaya@email.com,"Jl. Merdeka No. 2",Pekanbaru,Riau,082901234590,155,75,1,38000,"Margarin Palmia",Makanan,15000,230
+11,11,2024-02-15,88000,dikirim,"Eko Prasetyo",eko.prasetyo@email.com,"Jl. Hayam Wuruk No. 56","Jakarta Barat","DKI Jakarta",081567890123,22,75,2,76000,"Margarin Palmia",Makanan,15000,230
+191,86,2025-08-16,92000,dikirim,"Anton Prasetyo",anton.prasetyo@email.com,"Jl. Gatot Subroto No. 83",Denpasar,Bali,082345678945,382,76,1,40500,"Nescafe Classic",Minuman,16000,550
+146,41,2025-04-02,94000,dikirim,"Dani Prasetyo",dani.prasetyo@email.com,"Jl. Diponegoro No. 62",Semarang,"Jawa Tengah",081012345689,291,76,1,27000,"Nescafe Classic",Minuman,16000,550
+91,91,2024-10-07,87000,dikirim,"Lina Putri",lina.putri@email.com,"Jl. Sudirman No. 71",Jambi,Jambi,081567890167,182,76,2,81000,"Nescafe Classic",Minuman,16000,550
+40,40,2024-05-04,54000,dibatalkan,"Maya Lestari",maya.lestari@email.com,"Jl. Imam Bonjol No. 99",Padang,"Sumatera Barat",085012345689,79,76,2,54000,"Nescafe Classic",Minuman,16000,550
+192,87,2025-08-19,100000,selesai,"Siti Lestari",siti.lestari@email.com,"Jl. Pattimura No. 33",Ambon,Maluku,081345678945,383,77,1,86000,"Teh Kotak",Minuman,4500,950
+147,42,2025-04-05,86000,selesai,"Rina Fitriani",rina.fitriani@email.com,"Jl. A. Yani No. 35",Banjarmasin,"Kalimantan Selatan",082123456790,293,77,1,94000,"Teh Kotak",Minuman,4500,950
+92,92,2024-10-10,78000,selesai,"Hendri Wijaya",hendri.wijaya@email.com,"Jl. Ahmad Yani No. 96","Bandar Lampung",Lampung,085678901278,183,77,1,87000,"Teh Kotak",Minuman,4500,950
+41,41,2024-05-07,126000,dikirim,"Dani Prasetyo",dani.prasetyo@email.com,"Jl. Diponegoro No. 62",Semarang,"Jawa Tengah",081012345689,81,77,1,126000,"Teh Kotak",Minuman,4500,950
+193,88,2025-08-22,65000,dibayar,"Bambang Wijaya",bambang.wijaya@email.com,"Jl. Sultan Agung No. 57",Tegal,"Jawa Tengah",085456789056,385,78,1,77000,"Air Zamzam 250ml",Minuman,7000,200
+148,43,2025-04-08,119000,dibayar,"Anton Wijaya",anton.wijaya@email.com,"Jl. Gatot Subroto No. 70",Denpasar,Bali,081123456790,295,78,1,86000,"Air Zamzam 250ml",Minuman,7000,200
+93,93,2024-10-13,127000,dibayar,"Nina Sari",nina.sari@email.com,"Jl. Teuku Umar No. 34","Banda Aceh",Aceh,081678901278,185,78,1,78000,"Air Zamzam 250ml",Minuman,7000,200
+42,42,2024-05-10,89000,selesai,"Rina Fitriani",rina.fitriani@email.com,"Jl. A. Yani No. 35",Banjarmasin,"Kalimantan Selatan",082123456790,83,78,1,89000,"Air Zamzam 250ml",Minuman,7000,200
+149,44,2025-04-11,64000,selesai,"Siti Aminah",siti.aminah@email.com,"Jl. Pattimura No. 20",Ambon,Maluku,085234567801,297,79,1,119000,"Coca Cola 240ml",Minuman,6000,700
+43,43,2024-05-13,76000,dibayar,"Anton Wijaya",anton.wijaya@email.com,"Jl. Gatot Subroto No. 70",Denpasar,Bali,081123456790,85,79,2,76000,"Coca Cola 240ml",Minuman,6000,700
+206,101,2025-10-01,104000,dikirim,"Maya Wijaya",maya.wijaya@email.com,"Jl. Gatot Subroto No. 39",Medan,"Sumatera Utara",081012345612,411,80,1,58000,"Sprite 240ml",Minuman,6000,700
+178,73,2025-07-07,115000,dibayar,"Fitri Sari",fitri.sari@email.com,"Jl. K.H. Mas Mansyur No. 33","Jakarta Selatan","DKI Jakarta",081678901267,356,80,1,58000,"Sprite 240ml",Minuman,6000,700
+150,45,2025-04-14,69000,dibatalkan,"Bambang Triyono",bambang.triyono@email.com,"Jl. Sultan Agung No. 44",Tegal,"Jawa Tengah",081234567812,299,80,1,64000,"Sprite 240ml",Minuman,6000,700
+106,1,2024-12-02,98000,dikirim,"Ahmad Fauzi",ahmad.fauzi@email.com,"Jl. Merdeka No. 23","Jakarta Pusat","DKI Jakarta",081234567890,211,80,1,58000,"Sprite 240ml",Minuman,6000,700
+78,78,2024-08-28,96000,dibayar,"Rizal Wijaya",rizal.wijaya@email.com,"Jl. Merdeka No. 2",Pekanbaru,Riau,082901234590,156,80,1,58000,"Sprite 240ml",Minuman,6000,700
+44,44,2024-05-16,110000,selesai,"Siti Aminah",siti.aminah@email.com,"Jl. Pattimura No. 20",Ambon,Maluku,085234567801,87,80,2,110000,"Sprite 240ml",Minuman,6000,700
+151,46,2025-04-17,103000,dikirim,"Dinda Ayu",dinda.ayu@email.com,"Jl. Veteran No. 13",Solo,"Jawa Tengah",082345678923,301,81,1,69000,"Shampoo Dove","Perawatan Tubuh",14000,330
+45,45,2024-05-19,38000,dibatalkan,"Bambang Triyono",bambang.triyono@email.com,"Jl. Sultan Agung No. 44",Tegal,"Jawa Tengah",081234567812,89,81,1,38000,"Shampoo Dove","Perawatan Tubuh",14000,330
+152,47,2025-04-20,91000,selesai,"Ferry Irawan",ferry.irawan@email.com,"Jl. Diponegoro No. 91",Kediri,"Jawa Timur",081345678923,303,82,1,103000,"Sabun Cussons Baby","Perawatan Tubuh",7000,480
+46,46,2024-05-22,94000,dikirim,"Dinda Ayu",dinda.ayu@email.com,"Jl. Veteran No. 13",Solo,"Jawa Tengah",082345678923,91,82,1,94000,"Sabun Cussons Baby","Perawatan Tubuh",7000,480
+193,88,2025-08-22,65000,dibayar,"Bambang Wijaya",bambang.wijaya@email.com,"Jl. Sultan Agung No. 57",Tegal,"Jawa Tengah",085456789056,386,83,1,49000,"Bedak Tabur Wardah","Perawatan Tubuh",35000,170
+153,48,2025-04-23,78000,dibayar,"Lina Sari",lina.sari@email.com,"Jl. Sudirman No. 58",Jambi,Jambi,085456789034,305,83,1,81000,"Bedak Tabur Wardah","Perawatan Tubuh",35000,170
+93,93,2024-10-13,127000,dibayar,"Nina Sari",nina.sari@email.com,"Jl. Teuku Umar No. 34","Banda Aceh",Aceh,081678901278,186,83,1,49000,"Bedak Tabur Wardah","Perawatan Tubuh",35000,170
+47,47,2024-05-25,102000,selesai,"Ferry Irawan",ferry.irawan@email.com,"Jl. Diponegoro No. 91",Kediri,"Jawa Timur",081345678923,93,83,2,102000,"Bedak Tabur Wardah","Perawatan Tubuh",35000,170
+154,49,2025-04-26,95000,selesai,"Hendri Gunawan",hendri.gunawan@email.com,"Jl. Ahmad Yani No. 87","Bandar Lampung",Lampung,081456789034,307,84,1,78000,"Micellar Water Somethinc","Perawatan Tubuh",45000,120
+48,48,2024-05-28,67000,dibayar,"Lina Sari",lina.sari@email.com,"Jl. Sudirman No. 58",Jambi,Jambi,085456789034,95,84,1,67000,"Micellar Water Somethinc","Perawatan Tubuh",45000,120
+206,101,2025-10-01,104000,dikirim,"Maya Wijaya",maya.wijaya@email.com,"Jl. Gatot Subroto No. 39",Medan,"Sumatera Utara",081012345612,412,85,1,40000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+184,79,2025-07-25,53000,selesai,"Dewi Anggraini",dewi.anggraini@email.com,"Jl. Sultan Iskandar Muda No. 40","Banda Aceh",Aceh,081901234590,368,85,1,53000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+179,74,2025-07-10,61000,selesai,"Irfan Wijaya",irfan.wijaya@email.com,"Jl. Thamrin No. 12","Jakarta Pusat","DKI Jakarta",082789012378,357,85,2,76000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+155,50,2025-04-29,46000,dibatalkan,"Nina Wijaya",nina.wijaya@email.com,"Jl. Teuku Umar No. 22","Banda Aceh",Aceh,082567890145,309,85,1,95000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+106,1,2024-12-02,98000,dikirim,"Ahmad Fauzi",ahmad.fauzi@email.com,"Jl. Merdeka No. 23","Jakarta Pusat","DKI Jakarta",081234567890,212,85,1,40000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+84,84,2024-09-16,109000,selesai,"Dani Wijaya",dani.wijaya@email.com,"Jl. Diponegoro No. 76",Semarang,"Jawa Tengah",085234567823,168,85,1,53000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+79,79,2024-09-01,54000,selesai,"Dewi Anggraini",dewi.anggraini@email.com,"Jl. Sultan Iskandar Muda No. 40","Banda Aceh",Aceh,081901234590,157,85,1,38000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+49,49,2024-06-01,73000,selesai,"Hendri Gunawan",hendri.gunawan@email.com,"Jl. Ahmad Yani No. 87","Bandar Lampung",Lampung,081456789034,97,85,2,73000,"Sheet Mask Emina","Perawatan Tubuh",12000,250
+156,51,2025-05-02,107000,dikirim,"Raka Pratama",raka.pratama@email.com,"Jl. Pemuda No. 17",Pontianak,"Kalimantan Barat",081567890145,311,86,1,46000,"Popok Lovies",Bayi,80000,140
+50,50,2024-06-04,115000,dibatalkan,"Nina Wijaya",nina.wijaya@email.com,"Jl. Teuku Umar No. 22","Banda Aceh",Aceh,082567890145,99,86,2,115000,"Popok Lovies",Bayi,80000,140
+157,52,2025-05-05,84000,selesai,"Dewi Kusuma",dewi.kusuma@email.com,"Jl. Sultan Hasanuddin No. 36",Makassar,"Sulawesi Selatan",085678901256,313,87,1,107000,"Susu Dancow 1+ 400g",Bayi,58000,240
+51,51,2024-06-07,88000,dikirim,"Raka Pratama",raka.pratama@email.com,"Jl. Pemuda No. 17",Pontianak,"Kalimantan Barat",081567890145,101,87,1,88000,"Susu Dancow 1+ 400g",Bayi,58000,240
+194,89,2025-08-25,71000,selesai,"Dinda Sari",dinda.sari@email.com,"Jl. Veteran No. 25",Solo,"Jawa Tengah",081456789056,387,88,1,53000,"Minyak Telon Cap Lang",Bayi,25000,280
+158,53,2025-05-08,120000,dibayar,"Agus Wijaya",agus.wijaya@email.com,"Jl. Pattimura No. 50",Manado,"Sulawesi Utara",081678901256,315,88,1,84000,"Minyak Telon Cap Lang",Bayi,25000,280
+94,94,2024-10-16,54000,selesai,"Raka Wijaya",raka.wijaya@email.com,"Jl. Pemuda No. 28",Pontianak,"Kalimantan Barat",082789012389,187,88,1,54000,"Minyak Telon Cap Lang",Bayi,25000,280
+52,52,2024-06-10,79000,selesai,"Dewi Kusuma",dewi.kusuma@email.com,"Jl. Sultan Hasanuddin No. 36",Makassar,"Sulawesi Selatan",085678901256,103,88,1,85000,"Minyak Telon Cap Lang",Bayi,25000,280
+159,54,2025-05-11,67000,selesai,"Siska Putri",siska.putri@email.com,"Jl. Jend. Sudirman No. 75",Pekanbaru,Riau,082789012367,317,89,1,120000,"Krim Bayi Cussons",Bayi,20000,310
+53,53,2024-06-13,128000,dibayar,"Agus Wijaya",agus.wijaya@email.com,"Jl. Pattimura No. 50",Manado,"Sulawesi Utara",081678901256,105,89,1,128000,"Krim Bayi Cussons",Bayi,20000,310
+207,102,2025-10-04,79000,selesai,"Adi Wijaya",adi.wijaya@email.com,"Jl. Cendana No. 58",Denpasar,Bali,082123456723,413,90,1,38000,"Bubur Nestle",Bayi,30000,190
+182,77,2025-07-19,89000,selesai,"Linda Wijaya",linda.wijaya@email.com,"Jl. Sudirman No. 9",Palembang,"Sumatera Selatan",081890123489,364,90,1,38000,"Bubur Nestle",Bayi,30000,190
+179,74,2025-07-10,61000,selesai,"Irfan Wijaya",irfan.wijaya@email.com,"Jl. Thamrin No. 12","Jakarta Pusat","DKI Jakarta",082789012378,358,90,1,38000,"Bubur Nestle",Bayi,30000,190
+160,55,2025-05-14,71000,dibatalkan,"Rudi Setiawan",rudi.setiawan@email.com,"Jl. Diponegoro No. 93",Semarang,"Jawa Tengah",081789012367,319,90,1,67000,"Bubur Nestle",Bayi,30000,190
+107,2,2024-12-05,86000,selesai,"Siti Nurhaliza",siti.nurhaliza@email.com,"Jl. Sudirman No. 15",Bandung,"Jawa Barat",082134567891,213,90,1,38000,"Bubur Nestle",Bayi,30000,190
+82,82,2024-09-10,83000,selesai,"Indra Prasetyo",indra.prasetyo@email.com,"Jl. Sam Ratulangi No. 85",Manado,"Sulawesi Utara",082123456712,164,90,1,38000,"Bubur Nestle",Bayi,30000,190
+79,79,2024-09-01,54000,selesai,"Dewi Anggraini",dewi.anggraini@email.com,"Jl. Sultan Iskandar Muda No. 40","Banda Aceh",Aceh,081901234590,158,90,1,16000,"Bubur Nestle",Bayi,30000,190
+54,54,2024-06-16,55000,selesai,"Siska Putri",siska.putri@email.com,"Jl. Jend. Sudirman No. 75",Pekanbaru,Riau,082789012367,107,90,1,55000,"Bubur Nestle",Bayi,30000,190
+161,56,2025-05-17,98000,dikirim,"Lia Permata",lia.permata@email.com,"Jl. Merdeka No. 10",Palu,"Sulawesi Tengah",085890123478,321,91,1,71000,"Sampoerna Hijau",Rokok,24000,130
+55,55,2024-06-19,68000,dibatalkan,"Rudi Setiawan",rudi.setiawan@email.com,"Jl. Diponegoro No. 93",Semarang,"Jawa Tengah",081789012367,109,91,2,68000,"Sampoerna Hijau",Rokok,24000,130
+162,57,2025-05-20,85000,selesai,"Toni Prasetyo",toni.prasetyo@email.com,"Jl. A. Yani No. 61",Banjarmasin,"Kalimantan Selatan",081890123478,323,92,1,98000,"Gudang Garam Filter",Rokok,25500,105
+56,56,2024-06-22,97000,dikirim,"Lia Permata",lia.permata@email.com,"Jl. Merdeka No. 10",Palu,"Sulawesi Tengah",085890123478,111,92,1,97000,"Gudang Garam Filter",Rokok,25500,105
+195,90,2025-08-28,113000,dibatalkan,"Ferry Wijaya",ferry.wijaya@email.com,"Jl. Diponegoro No. 102",Kediri,"Jawa Timur",082567890167,389,93,1,66000,"Djarum Coklat",Rokok,23000,160
+163,58,2025-05-23,113000,dibayar,"Maya Sari",maya.sari2@email.com,"Jl. Gatot Subroto No. 28",Medan,"Sumatera Utara",082901234589,325,93,1,85000,"Djarum Coklat",Rokok,23000,160
+95,95,2024-10-19,67000,dibatalkan,"Dewi Sari",dewi.sari@email.com,"Jl. Sultan Hasanuddin No. 48",Makassar,"Sulawesi Selatan",081789012389,189,93,1,67000,"Djarum Coklat",Rokok,23000,160
+57,57,2024-06-25,84000,selesai,"Toni Prasetyo",toni.prasetyo@email.com,"Jl. A. Yani No. 61",Banjarmasin,"Kalimantan Selatan",081890123478,113,93,1,84000,"Djarum Coklat",Rokok,23000,160
+164,59,2025-05-26,59000,selesai,"Adi Nugroho",adi.nugroho@email.com,"Jl. Cendana No. 47",Denpasar,Bali,081901234589,327,94,1,38000,"A Mild White",Rokok,26000,90
+58,58,2024-06-28,112000,dibayar,"Maya Sari",maya.sari2@email.com,"Jl. Gatot Subroto No. 28",Medan,"Sumatera Utara",082901234589,115,94,1,112000,"A Mild White",Rokok,26000,90
+207,102,2025-10-04,79000,selesai,"Adi Wijaya",adi.wijaya@email.com,"Jl. Cendana No. 58",Denpasar,Bali,082123456723,414,95,1,48000,"Starmild Blue",Rokok,23500,125
+180,75,2025-07-13,76000,dibatalkan,"Rina Agustina",rina.agustina2@email.com,"Jl. Monginsidi No. 88",Makassar,"Sulawesi Selatan",081789012378,359,95,1,74000,"Starmild Blue",Rokok,23500,125
+107,2,2024-12-05,86000,selesai,"Siti Nurhaliza",siti.nurhaliza@email.com,"Jl. Sudirman No. 15",Bandung,"Jawa Barat",082134567891,214,95,1,48000,"Starmild Blue",Rokok,23500,125
+80,80,2024-09-04,68000,dibatalkan,"Arief Prasetyo",arief.prasetyo@email.com,"Jl. Veteran No. 7",Malang,"Jawa Timur",085012345601,159,95,1,74000,"Starmild Blue",Rokok,23500,125
+59,59,2024-07-01,59000,selesai,"Adi Nugroho",adi.nugroho@email.com,"Jl. Cendana No. 47",Denpasar,Bali,081901234589,117,95,2,59000,"Starmild Blue",Rokok,23500,125
+60,60,2024-07-04,74000,dibatalkan,"Rina Marlina",rina.marlina@email.com,"Jl. Hayam Wuruk No. 84","Jakarta Barat","DKI Jakarta",085012345690,119,96,2,74000,"Buku Tulis Kiky","Alat Tulis",3500,550
+61,61,2024-07-07,106000,dikirim,"Budi Pratama",budi.pratama@email.com,"Jl. Asia Afrika No. 39",Bandung,"Jawa Barat",081012345690,121,97,1,106000,"Tinta Printer Epson","Alat Tulis",85000,80
+196,91,2025-09-01,86000,dikirim,"Lina Putri",lina.putri@email.com,"Jl. Sudirman No. 71",Jambi,Jambi,081567890167,391,98,1,40000,"Sticky Notes 3M","Alat Tulis",18000,220
+96,96,2024-10-22,96000,dikirim,"Agus Prasetyo",agus.prasetyo@email.com,"Jl. Pattimura No. 65",Manado,"Sulawesi Utara",085890123490,191,98,2,80000,"Sticky Notes 3M","Alat Tulis",18000,220
+62,62,2024-07-10,81000,selesai,"Siti Rahayu",siti.rahayu@email.com,"Jl. Pahlawan No. 80",Makassar,"Sulawesi Selatan",082123456701,123,98,1,81000,"Sticky Notes 3M","Alat Tulis",18000,220
+164,59,2025-05-26,59000,selesai,"Adi Nugroho",adi.nugroho@email.com,"Jl. Cendana No. 47",Denpasar,Bali,081901234589,328,99,1,28000,"Kertas HVS 1 rim","Alat Tulis",50000,300
+63,63,2024-07-13,94000,dibayar,"Dian Sari",dian.sari@email.com,"Jl. Imam Bonjol No. 66",Padang,"Sumatera Barat",081123456701,125,99,1,94000,"Kertas HVS 1 rim","Alat Tulis",50000,300
+208,103,2025-10-07,92000,dibayar,"Rina Sari",rina.sari@email.com,"Jl. Hayam Wuruk No. 95","Jakarta Barat","DKI Jakarta",081123456723,416,100,1,94500,"Map Plastik Kiky","Alat Tulis",7000,420
+197,92,2025-09-04,77000,selesai,"Hendri Wijaya",hendri.wijaya@email.com,"Jl. Ahmad Yani No. 96","Bandar Lampung",Lampung,085678901278,394,100,1,66000,"Map Plastik Kiky","Alat Tulis",7000,420
+181,76,2025-07-16,108000,dikirim,"Hadi Prasetyo",hadi.prasetyo@email.com,"Jl. Pemuda No. 4",Semarang,"Jawa Tengah",085890123489,362,100,1,117500,"Map Plastik Kiky","Alat Tulis",7000,420
+108,3,2024-12-08,119000,dibayar,"Budi Santoso",budi.santoso@email.com,"Jl. Diponegoro No. 88",Surabaya,"Jawa Timur",081345678902,216,100,1,81000,"Map Plastik Kiky","Alat Tulis",7000,420
+97,97,2024-10-25,83000,selesai,"Siska Wijaya",siska.wijaya@email.com,"Jl. Jend. Sudirman No. 86",Pekanbaru,Riau,081890123490,194,100,1,66000,"Map Plastik Kiky","Alat Tulis",7000,420
+81,81,2024-09-07,121000,dikirim,"Siska Marlina",siska.marlina@email.com,"Jl. Cik Di Tiro No. 64",Yogyakarta,"DI Yogyakarta",081012345601,162,100,1,118500,"Map Plastik Kiky","Alat Tulis",7000,420
+64,64,2024-07-16,66000,selesai,"Agus Santoso",agus.santoso@email.com,"Jl. Sudirman No. 95",Bandung,"Jawa Barat",085234567812,127,100,1,66000,"Map Plastik Kiky","Alat Tulis",7000,420
+165,60,2025-05-29,74000,dibatalkan,"Rina Marlina",rina.marlina@email.com,"Jl. Hayam Wuruk No. 84","Jakarta Barat","DKI Jakarta",085012345690,329,101,1,43000,"Teh Pucuk Harum",Minuman,4000,1000
+65,65,2024-07-19,45000,dibatalkan,"Lina Wijayanti",lina.wijayanti@email.com,"Jl. Kartini No. 26",Malang,"Jawa Timur",081234567823,129,101,1,44000,"Teh Pucuk Harum",Minuman,4000,1000
+166,61,2025-06-01,105000,dikirim,"Budi Pratama",budi.pratama@email.com,"Jl. Asia Afrika No. 39",Bandung,"Jawa Barat",081012345690,331,102,1,117000,"Kuku Bima Ginseng",Minuman,6500,400
+66,66,2024-07-22,119000,dikirim,"Fajar Wijaya",fajar.wijaya@email.com,"Jl. Rajawali No. 5",Banjarmasin,"Kalimantan Selatan",082345678934,131,102,1,119000,"Kuku Bima Ginseng",Minuman,6500,400
+196,91,2025-09-01,86000,dikirim,"Lina Putri",lina.putri@email.com,"Jl. Sudirman No. 71",Jambi,Jambi,081567890167,392,103,2,32000,"Bear Brand",Minuman,10000,350
+167,62,2025-06-04,82000,selesai,"Siti Rahayu",siti.rahayu@email.com,"Jl. Pahlawan No. 80",Makassar,"Sulawesi Selatan",082123456701,333,103,1,88000,"Bear Brand",Minuman,10000,350
+96,96,2024-10-22,96000,dikirim,"Agus Prasetyo",agus.prasetyo@email.com,"Jl. Pattimura No. 65",Manado,"Sulawesi Utara",085890123490,192,103,1,16000,"Bear Brand",Minuman,10000,350
+67,67,2024-07-25,87000,selesai,"Nadia Sari",nadia.sari@email.com,"Jl. Pattimura No. 72",Manado,"Sulawesi Utara",081345678934,133,103,1,87000,"Bear Brand",Minuman,10000,350
+168,63,2025-06-07,95000,dibayar,"Dian Sari",dian.sari@email.com,"Jl. Imam Bonjol No. 66",Padang,"Sumatera Barat",081123456701,335,104,1,74000,"Susu Ultra Murni",Minuman,12000,500
+68,68,2024-07-28,73000,dibayar,"Eko Wijaya",eko.wijaya@email.com,"Jl. Teuku Umar No. 30","Aceh Besar",Aceh,085456789045,135,104,1,74000,"Susu Ultra Murni",Minuman,12000,500
+169,64,2025-06-10,66000,selesai,"Agus Santoso",agus.santoso@email.com,"Jl. Sudirman No. 95",Bandung,"Jawa Barat",085234567812,337,105,1,106000,"Yoghurt Cimory",Minuman,15000,280
+69,69,2024-08-01,105000,selesai,"Riska Sari",riska.sari@email.com,"Jl. Sultan Agung No. 15",Tangerang,Banten,081456789045,137,105,1,105000,"Yoghurt Cimory",Minuman,15000,280
